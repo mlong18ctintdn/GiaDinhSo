@@ -1,0 +1,728 @@
+[
+ {
+  "word": "flex",
+  "definition": "Presumir logros, cosas o estilo de vida, a veces solo por diversión.",
+  "solution_for_parents": "Pregunta por la alegría que hay detrás en vez de decir que presume. Suelen querer reconocimiento.",
+  "context_example": "Tu hijo sube sus zapatillas nuevas: \"Solo un poco de flex, mamá.\""
+ },
+ {
+  "word": "cringe",
+  "definition": "Sentir vergüenza ajena por algo cursi o incómodo.",
+  "solution_for_parents": "No lo tomes como falta de respeto. Pregunta \"¿Qué te dio vergüenza?\" para conocer su gusto.",
+  "context_example": "\"El karaoke de papá da mucho cringe.\""
+ },
+ {
+  "word": "crush",
+  "definition": "Persona que le gusta en secreto, sin haberlo confesado.",
+  "solution_for_parents": "Mantén un tono suave y no bromees delante de otros. Contártelo es señal de confianza.",
+  "context_example": "\"Tengo un crush, mamá, no preguntes mucho.\""
+ },
+ {
+  "word": "red flag",
+  "definition": "Señal de alerta de que una persona o relación puede ser dañina.",
+  "solution_for_parents": "Pregunta qué señales le preocupan. Es una oportunidad para enseñarle a protegerse.",
+  "context_example": "\"Revisar mi móvil todo el tiempo es una red flag.\""
+ },
+ {
+  "word": "green flag",
+  "definition": "Buena señal de que una persona o relación es de fiar.",
+  "solution_for_parents": "Pregunta qué le hace sentirse seguro y comparte tus propios criterios.",
+  "context_example": "\"Escucha de verdad. Una green flag total.\""
+ },
+ {
+  "word": "ghosting",
+  "definition": "Desaparecer de golpe y no responder sin dar explicaciones.",
+  "solution_for_parents": "Si lo han hecho con tu hijo, acompáñalo primero. No analices todavía sus errores.",
+  "context_example": "\"Me lleva tres días haciendo ghosting.\""
+ },
+ {
+  "word": "simp",
+  "definition": "Quien hace demasiado por alguien que le gusta, a veces perdiendo dignidad.",
+  "solution_for_parents": "No te rías. Habla de cómo demostrar cariño manteniendo límites.",
+  "context_example": "\"Es un simp total de la delegada de clase.\""
+ },
+ {
+  "word": "slay",
+  "definition": "Hacer algo de manera brillante; se usa como elogio.",
+  "solution_for_parents": "¡Es un halago! Responde con calidez: \"Lo hiciste genial, estoy orgullosa.\"",
+  "context_example": "\"¡Este conjunto es un slay!\""
+ },
+ {
+  "word": "no cap",
+  "definition": "Sin mentir, te digo la verdad.",
+  "solution_for_parents": "Confía en su palabra y pide detalles si hace falta, sin dudar enseguida.",
+  "context_example": "\"Saqué un 9 en el examen, no cap.\""
+ },
+ {
+  "word": "cap",
+  "definition": "Una mentira o exageración.",
+  "solution_for_parents": "Si dice que alguien es \"cap\", no juzgues. Pregunta qué le pareció falso.",
+  "context_example": "\"Dice que es rico, pero es cap.\""
+ },
+ {
+  "word": "vibe",
+  "definition": "La sensación, ambiente o energía de un lugar o persona.",
+  "solution_for_parents": "Pregunta \"¿Qué vibe tiene?\" Les encanta que muestres curiosidad sincera.",
+  "context_example": "\"Esta cafetería tiene muy buena vibe.\""
+ },
+ {
+  "word": "mood",
+  "definition": "Sentirse identificado, o simplemente el estado de ánimo actual.",
+  "solution_for_parents": "\"Mood\" suele ser su forma de hablar de emociones. Pregunta con suavidad cómo se siente hoy.",
+  "context_example": "Tu hijo manda un meme de un gato tumbado: \"Mood de hoy.\""
+ },
+ {
+  "word": "toxic",
+  "definition": "Dañino para el bienestar mental (persona, lugar o relación).",
+  "solution_for_parents": "Pregunta qué conducta concreta le molesta. No descartes sus sentimientos.",
+  "context_example": "\"El grupo de clase es muy tóxico.\""
+ },
+ {
+  "word": "gaslight",
+  "definition": "Manipular a alguien para que dude de su memoria y sus sentimientos.",
+  "solution_for_parents": "Si te lo dice a ti, mantén la calma y escucha qué siente que le niegan.",
+  "context_example": "\"Mamá, no me hagas gaslighting, lo recuerdo bien.\""
+ },
+ {
+  "word": "FOMO",
+  "definition": "Miedo a perderse algo divertido que otros están viviendo.",
+  "solution_for_parents": "Cuenta alguna vez que te sentiste dejado de lado. Acordad juntos límites de pantalla.",
+  "context_example": "\"Tengo FOMO, todos salieron y yo me quedé en casa.\""
+ },
+ {
+  "word": "YOLO",
+  "definition": "Solo se vive una vez, así que inténtalo.",
+  "solution_for_parents": "No prohíbas de inmediato. Pregunta por los riesgos y acordad límites seguros.",
+  "context_example": "\"Vamos de viaje, ¡YOLO!\""
+ },
+ {
+  "word": "IRL",
+  "definition": "En la vida real, no en internet.",
+  "solution_for_parents": "Invítalo a una actividad real juntos, como cocinar o pasear.",
+  "context_example": "\"Es distinto cuando nos vemos IRL.\""
+ },
+ {
+  "word": "OTP",
+  "definition": "La pareja que más quieres que esté junta (series, historias o ídolos).",
+  "solution_for_parents": "Pregunta por qué le gusta esa pareja. Así conecta con sus amigos.",
+  "context_example": "\"Esta es mi OTP.\""
+ },
+ {
+  "word": "ship",
+  "definition": "Apoyar que dos personas sean pareja, reales o ficticias.",
+  "solution_for_parents": "Sonríe con él en lugar de decir que es una tontería. Es una alegría compartida.",
+  "context_example": "\"Shippeo mucho a estos dos.\""
+ },
+ {
+  "word": "bias",
+  "definition": "El miembro favorito de un grupo.",
+  "solution_for_parents": "Pregunta quién es su bias y por qué. Le encanta contarlo.",
+  "context_example": "\"Mi bias es el del centro.\""
+ },
+ {
+  "word": "stan",
+  "definition": "Ser fan muy devoto de un artista o famoso.",
+  "solution_for_parents": "Pregunta qué le gusta de esa persona. Acordad un gasto razonable.",
+  "context_example": "\"Soy stan de este grupo desde segundo.\""
+ },
+ {
+  "word": "fandom",
+  "definition": "La comunidad de fans de un ídolo u obra.",
+  "solution_for_parents": "El fandom es donde se siente parte de algo. Pregunta por sus amigos allí.",
+  "context_example": "\"Mi fandom está recaudando dinero para una causa.\""
+ },
+ {
+  "word": "drama",
+  "definition": "Conflicto ruidoso o chisme, normalmente difundido en línea.",
+  "solution_for_parents": "Pregunta si le afecta y recuerda que no hay que atacar a nadie.",
+  "context_example": "\"Hay un drama nuevo en internet.\""
+ },
+ {
+  "word": "hóng",
+  "definition": "Esperar o seguir noticias o chismes emocionantes.",
+  "solution_for_parents": "Pregunta qué espera, sin llamarlo curiosidad vacía. ¡Únete!",
+  "context_example": "\"Estoy esperando el próximo capítulo.\""
+ },
+ {
+  "word": "cháy",
+  "definition": "Genial, animado, dándolo todo.",
+  "solution_for_parents": "Un halago divertido. Responde con entusiasmo.",
+  "context_example": "\"¡El concierto de anoche fue fuego!\""
+ },
+ {
+  "word": "xỉu up xỉu down",
+  "definition": "Tan tierno o emocionante que da ganas de desmayarse.",
+  "solution_for_parents": "Es una forma exagerada de elogiar. Sonríe sin más.",
+  "context_example": "\"Este bebé es tan tierno que me desmayo.\""
+ },
+ {
+  "word": "keo lỳ",
+  "definition": "Muy seguro, genial y duro de roer.",
+  "solution_for_parents": "Es un cumplido. Di \"¡Eres genial!\" para que se sienta reconocido.",
+  "context_example": "\"Ese chico es muy keo lỳ.\""
+ },
+ {
+  "word": "u là trời",
+  "definition": "Exclamación de sorpresa o incredulidad.",
+  "solution_for_parents": "Es solo una exclamación. Pregunta qué le sorprendió.",
+  "context_example": "\"¡Ay Dios, suspendí el examen!\""
+ },
+ {
+  "word": "gét gô",
+  "definition": "Del inglés \"Let's go\": empecemos, vamos.",
+  "solution_for_parents": "Comparte su entusiasmo. Es ilusión, no actitud.",
+  "context_example": "\"¡Vamos, a comer!\""
+ },
+ {
+  "word": "ét o ét",
+  "definition": "Pedir ayuda urgente imitando SOS, casi siempre en broma.",
+  "solution_for_parents": "Distingue broma de verdad por el tono. Cuando pida ayuda, pregunta qué pasa.",
+  "context_example": "\"SOS, es para mañana y no he empezado.\""
+ },
+ {
+  "word": "khum",
+  "definition": "Forma tierna de decir 'no' (không).",
+  "solution_for_parents": "Es solo una manera de hablar. No hace falta corregir la ortografía en charla informal.",
+  "context_example": "\"Khum, no voy a ninguna parte.\""
+ },
+ {
+  "word": "bae",
+  "definition": "Pareja o persona especial, apodo cariñoso.",
+  "solution_for_parents": "Recibe la noticia con suavidad y pregunta con educación.",
+  "context_example": "\"Esta noche quedo con bae.\""
+ },
+ {
+  "word": "baddie",
+  "definition": "Persona segura, atrevida y que cuida su estilo.",
+  "solution_for_parents": "Suele ser un elogio. Pregunta por su estilo personal.",
+  "context_example": "\"Ella es una baddie total.\""
+ },
+ {
+  "word": "rizz",
+  "definition": "Encanto, capacidad de ligar o atraer a la gente.",
+  "solution_for_parents": "No te avergüences. Habla de comunicarse con educación y respeto.",
+  "context_example": "\"Tiene un rizz increíble.\""
+ },
+ {
+  "word": "sus",
+  "definition": "Sospechoso, algo no cuadra (viene de Among Us).",
+  "solution_for_parents": "Casi siempre es broma. Si es real, pregunta por qué para mantenerlo seguro.",
+  "context_example": "\"Este mensaje es muy sus.\""
+ },
+ {
+  "word": "based",
+  "definition": "Mantener su propia opinión sin seguir a la masa.",
+  "solution_for_parents": "Pregunta cuál es su opinión y no te apresures a rebatirla.",
+  "context_example": "\"La opinión de ese amigo es muy based.\""
+ },
+ {
+  "word": "W",
+  "definition": "De 'win': una victoria o algo bueno.",
+  "solution_for_parents": "Celebra con él. Una sola letra también es alegría.",
+  "context_example": "\"Salida temprano, ¡W!\""
+ },
+ {
+  "word": "L",
+  "definition": "De 'loss': un fracaso o algo malo.",
+  "solution_for_parents": "Cuando dice L, primero consuela y luego enseña.",
+  "context_example": "\"El examen de esta mañana fue una L.\""
+ },
+ {
+  "word": "lowkey",
+  "definition": "En voz baja, algo, sin que se note mucho.",
+  "solution_for_parents": "Está compartiendo algo pequeño. Escucha con atención.",
+  "context_example": "\"Estoy lowkey preocupado por este examen.\""
+ },
+ {
+  "word": "highkey",
+  "definition": "Claramente, mucho, sin esconderlo.",
+  "solution_for_parents": "Está siendo directo. Valora la sinceridad.",
+  "context_example": "\"Highkey quiero esta bici.\""
+ },
+ {
+  "word": "bruh",
+  "definition": "Exclamación de aburrimiento, sorpresa o resignación.",
+  "solution_for_parents": "No es mala educación. Pregunta con calma: \"¿Qué pasó?\"",
+  "context_example": "\"Bruh, se me acabó otra vez la batería.\""
+ },
+ {
+  "word": "bestie",
+  "definition": "Mejor amigo o amiga.",
+  "solution_for_parents": "Pregunta por su mejor amigo con cariño, sin interrogar.",
+  "context_example": "\"Mi bestie es genial en el cole.\""
+ },
+ {
+  "word": "NPC",
+  "definition": "Persona que sigue la rutina sin decisión propia (de los personajes de fondo en juegos).",
+  "solution_for_parents": "No lo tomes como insulto. Pregunta qué le gustaría cambiar.",
+  "context_example": "\"Mismo camino cada día, me siento un NPC.\""
+ },
+ {
+  "word": "glow up",
+  "definition": "Cambio positivo claro en aspecto o en uno mismo.",
+  "solution_for_parents": "Elogia el esfuerzo. Evita comentarios negativos sobre el aspecto.",
+  "context_example": "\"He tenido un glow up enorme este año.\""
+ },
+ {
+  "word": "main character",
+  "definition": "Sentirse el protagonista de su propia historia.",
+  "solution_for_parents": "Anímalo a tener confianza y recuérdale que también cuide a los demás.",
+  "context_example": "\"Hoy estoy en modo main character.\""
+ },
+ {
+  "word": "đỉnh của chóp",
+  "definition": "Más que excelente, lo mejor de lo mejor.",
+  "solution_for_parents": "Un gran elogio. Responde con orgullo.",
+  "context_example": "\"¡Esa presentación fue lo máximo!\""
+ },
+ {
+  "word": "chill",
+  "definition": "Relajado, cómodo, sin presión.",
+  "solution_for_parents": "Pregunta cómo le gusta relajarse. Pasad tiempo sin objetivo.",
+  "context_example": "\"Este finde, a estar chill.\""
+ },
+ {
+  "word": "overthinking",
+  "definition": "Pensar demasiado, preocuparse por adelantado.",
+  "solution_for_parents": "Siéntate a su lado, pregunta \"¿Qué te preocupa más?\" y escribidlo juntos.",
+  "context_example": "\"Todas las noches hago overthinking antes de dormir.\""
+ },
+ {
+  "word": "burnout",
+  "definition": "Agotamiento por presión larga en el estudio o el trabajo.",
+  "solution_for_parents": "Baja las expectativas un tiempo y deja que descanse. Si dura, considera un profesional.",
+  "context_example": "\"Estoy quemado tras los exámenes.\""
+ },
+ {
+  "word": "gánh team",
+  "definition": "Una persona hace casi todo el trabajo del grupo.",
+  "solution_for_parents": "Pregunta cómo se siente y cómo repartir mejor el trabajo.",
+  "context_example": "\"Toda la semana cargué con el trabajo en grupo.\""
+ },
+ {
+  "word": "cày",
+  "definition": "Trabajar o jugar sin parar, repitiendo una misma tarea.",
+  "solution_for_parents": "Pregunta qué está farmeando. Si es un juego, acordad pausas juntos.",
+  "context_example": "\"Esta noche me pongo a farmear hasta tarde.\""
+ },
+ {
+  "word": "farm",
+  "definition": "Acumular poco a poco recursos o puntos en un juego; a veces ahorrar para una meta.",
+  "solution_for_parents": "Pregunta por su meta en lugar de prohibir el juego.",
+  "context_example": "\"Estoy farmeando oro para comprar equipo.\""
+ },
+ {
+  "word": "AFK",
+  "definition": "Ausente del teclado o del móvil un rato.",
+  "solution_for_parents": "Avisarte antes es educado. Respétalo.",
+  "context_example": "\"Estoy AFK, voy a comer.\""
+ },
+ {
+  "word": "troll",
+  "definition": "Burlarse o provocar para reír o molestar.",
+  "solution_for_parents": "Distingue la diversión del acoso. Habla de límites al bromear.",
+  "context_example": "\"Solo estaba trolleando a mi amigo.\""
+ },
+ {
+  "word": "noob",
+  "definition": "Principiante sin experiencia.",
+  "solution_for_parents": "Está bien en broma. Recuérdale que no lo use para menospreciar.",
+  "context_example": "\"Mamá, juegas esto como una noob.\""
+ },
+ {
+  "word": "pro",
+  "definition": "Jugador hábil y experto.",
+  "solution_for_parents": "Es un halago. Pídele que te enseñe a jugar.",
+  "context_example": "\"Juega muy pro.\""
+ },
+ {
+  "word": "gg",
+  "definition": "Good game, se dice al terminar una partida.",
+  "solution_for_parents": "Es señal de deportividad. Elógialo.",
+  "context_example": "\"Perdimos, pero gg.\""
+ },
+ {
+  "word": "buff",
+  "definition": "Hacer más fuerte, o potenciar algo.",
+  "solution_for_parents": "Solo es un término de juegos. Pregunta para entenderlo mejor.",
+  "context_example": "\"Mejoraron mi personaje, ahora es fuerte.\""
+ },
+ {
+  "word": "nerf",
+  "definition": "Debilitar o reducir la fuerza.",
+  "solution_for_parents": "Pregunta si lo siente injusto; no hay nada más que resolver.",
+  "context_example": "\"Acaban de nerfear a mi personaje favorito.\""
+ },
+ {
+  "word": "lag",
+  "definition": "Lento, entrecortado, con retraso.",
+  "solution_for_parents": "Ofrécete a revisar el wifi en vez de regañar por jugar.",
+  "context_example": "\"La red va con lag, perdí.\""
+ },
+ {
+  "word": "skill issue",
+  "definition": "Se debe a falta de habilidad, no a otra causa.",
+  "solution_for_parents": "Es una frase en broma. Si te la dice, responde con una sonrisa.",
+  "context_example": "\"Perder es solo un skill issue.\""
+ },
+ {
+  "word": "hack não",
+  "definition": "Se te pega en la cabeza y no se va (canciones, frases).",
+  "solution_for_parents": "Tómalo con ligereza. Pregúntale por la canción.",
+  "context_example": "\"Esta canción se me pega.\""
+ },
+ {
+  "word": "sống ảo",
+  "definition": "Preocuparse más de la imagen en línea que de la vida real.",
+  "solution_for_parents": "Evita criticar. Cuenta cuándo tú también quisiste reconocimiento.",
+  "context_example": "\"Se pasó la tarde sacando fotos para redes.\""
+ },
+ {
+  "word": "check-in",
+  "definition": "Publicar tu ubicación o una foto al llegar.",
+  "solution_for_parents": "Acordad juntos una forma segura de compartir la ubicación.",
+  "context_example": "\"Hice check-in en la cafetería nueva.\""
+ },
+ {
+  "word": "tương tác",
+  "definition": "Me gusta, comentarios, compartir y respuestas en línea.",
+  "solution_for_parents": "Entiende que la interacción es cómo se mantiene en contacto con sus amigos.",
+  "context_example": "\"Esta publicación tuvo mucha interacción.\""
+ },
+ {
+  "word": "viral",
+  "definition": "Que se difunde rápido en internet.",
+  "solution_for_parents": "Pregunta qué vídeo y si es cierto. Enséñale a verificar noticias.",
+  "context_example": "\"Este vídeo se hizo viral.\""
+ },
+ {
+  "word": "trend",
+  "definition": "Tendencia que mucha gente sigue.",
+  "solution_for_parents": "Grabad juntos una tendencia sana, le encantará.",
+  "context_example": "\"Voy a probar esta tendencia.\""
+ },
+ {
+  "word": "content",
+  "definition": "Vídeos, fotos o publicaciones hechos para compartir.",
+  "solution_for_parents": "Pregunta por lo que crea; no supongas que es tiempo perdido.",
+  "context_example": "\"Estoy pensando en contenido nuevo.\""
+ },
+ {
+  "word": "creator",
+  "definition": "Persona que crea contenido en línea.",
+  "solution_for_parents": "Pregunta por su canal y apoya su privacidad.",
+  "context_example": "\"Quiero ser creador de contenido.\""
+ },
+ {
+  "word": "livestream",
+  "definition": "Emitir en directo.",
+  "solution_for_parents": "Acordad normas de seguridad: sin mostrar la dirección y no en horas de estudio.",
+  "context_example": "\"Estoy viendo un directo de música.\""
+ },
+ {
+  "word": "mukbang",
+  "definition": "Grabarse comiendo mucho frente a la cámara.",
+  "solution_for_parents": "Mantén la mente abierta, pero recuerda la alimentación sana.",
+  "context_example": "\"Esta noche veo mukbang.\""
+ },
+ {
+  "word": "ASMR",
+  "definition": "Sonidos suaves que relajan o dan sueño a quien escucha.",
+  "solution_for_parents": "Sabe que es su forma de relajarse y respétalo.",
+  "context_example": "\"Escucho ASMR para dormirme.\""
+ },
+ {
+  "word": "meme",
+  "definition": "Imagen o vídeo gracioso que se difunde en internet.",
+  "solution_for_parents": "Mira memes con él. Reír juntos ayuda a entenderse.",
+  "context_example": "\"Le mando este meme a mamá.\""
+ },
+ {
+  "word": "bựa",
+  "definition": "Humor tonto y exagerado, encantador o molesto.",
+  "solution_for_parents": "Pregunta cuáles son sus límites. Recuerda que las bromas no deben herir.",
+  "context_example": "\"Es tontorrón pero divertido.\""
+ },
+ {
+  "word": "lầy",
+  "definition": "Travieso, bromista y poco serio.",
+  "solution_for_parents": "Normalmente no hay mala intención. No supongas que se porta mal.",
+  "context_example": "\"Mi hijo es muy bromista.\""
+ },
+ {
+  "word": "tấu hài",
+  "definition": "Hacer el payaso para que la gente ría.",
+  "solution_for_parents": "Ríete con él.",
+  "context_example": "\"Todo el grupo hizo el payaso toda la clase.\""
+ },
+ {
+  "word": "thả thính",
+  "definition": "Decir frases de ligue para llamar la atención.",
+  "solution_for_parents": "No lo conviertas en un drama. Habla de respeto y consentimiento.",
+  "context_example": "\"Le tira los tejos a la chica de al lado.\""
+ },
+ {
+  "word": "thính",
+  "definition": "Frase de ligue, o gesto que insinúa sentimientos.",
+  "solution_for_parents": "Pregunta con suavidad y evita interrogar.",
+  "context_example": "\"Esta frase de ligue es muy cursi.\""
+ },
+ {
+  "word": "friendzone",
+  "definition": "Que solo te vean como amigo y no se pueda ir más allá.",
+  "solution_for_parents": "Acompáñalo sin regañar. La tristeza es real.",
+  "context_example": "\"Me mandaron a la friendzone.\""
+ },
+ {
+  "word": "talking stage",
+  "definition": "La etapa de conocerse antes de salir oficialmente.",
+  "solution_for_parents": "Habla de respeto. No insistas en cada detalle.",
+  "context_example": "\"Estamos en el talking stage.\""
+ },
+ {
+  "word": "situationship",
+  "definition": "Relación ambigua que no es claramente nada.",
+  "solution_for_parents": "Pregunta qué quiere y evita juzgar.",
+  "context_example": "\"Lo mío con esa persona es un situationship.\""
+ },
+ {
+  "word": "breadcrumbing",
+  "definition": "Dar migajas de atención para mantener a alguien esperando sin compromiso.",
+  "solution_for_parents": "Ayúdalo a ponerle nombre a esa sensación y a su derecho a la claridad.",
+  "context_example": "\"Me tiene todo el rato con breadcrumbing.\""
+ },
+ {
+  "word": "love bombing",
+  "definition": "Abrumar con afecto para controlar a alguien.",
+  "solution_for_parents": "Enséñale las señales de alerta y pregunta cómo se siente.",
+  "context_example": "\"Nos conocimos hace poco y ya es love bombing.\""
+ },
+ {
+  "word": "me time",
+  "definition": "Tiempo reservado para uno mismo.",
+  "solution_for_parents": "Respétalo. Necesita espacio para recargar.",
+  "context_example": "\"Esta tarde es mi me time.\""
+ },
+ {
+  "word": "self-care",
+  "definition": "Cuidar el propio cuerpo y mente.",
+  "solution_for_parents": "Anímalo; no es egoísmo.",
+  "context_example": "\"Hago self-care con la rutina de piel.\""
+ },
+ {
+  "word": "healing",
+  "definition": "Recuperarse emocionalmente tras un daño o cansancio.",
+  "solution_for_parents": "Pregunta qué necesita. Si se alarga, sugiere hablar con un profesional.",
+  "context_example": "\"Viajo solo para sanar.\""
+ },
+ {
+  "word": "ổn áp",
+  "definition": "Sólido, fiable, todo va bien.",
+  "solution_for_parents": "Un elogio suave.",
+  "context_example": "\"Este plan es sólido.\""
+ },
+ {
+  "word": "ngầu",
+  "definition": "Con estilo, genial, de carácter fuerte.",
+  "solution_for_parents": "Puedes elogiarlo cuando muestre seguridad.",
+  "context_example": "\"Es muy guay.\""
+ },
+ {
+  "word": "swag",
+  "definition": "Estilo propio y seguridad.",
+  "solution_for_parents": "Elogia su confianza y su gusto para vestir.",
+  "context_example": "\"Hoy me siento con mucho swag.\""
+ },
+ {
+  "word": "đu trend",
+  "definition": "Seguir la tendencia del momento.",
+  "solution_for_parents": "Pregunta por qué le gusta en vez de decir que sigue a la masa.",
+  "context_example": "\"Quiero subirme a esta tendencia.\""
+ },
+ {
+  "word": "xu cà na",
+  "definition": "Mala suerte, desgracia.",
+  "solution_for_parents": "Tranquilízalo sin sermones. Solo necesita comprensión.",
+  "context_example": "\"Hoy tengo muy mala suerte.\""
+ },
+ {
+  "word": "sương sương",
+  "definition": "Ligero, fácil, nada del otro mundo.",
+  "solution_for_parents": "Es una forma modesta de hablar, no una falta de respeto.",
+  "context_example": "\"Esta tarea es pan comido.\""
+ },
+ {
+  "word": "ok boomer",
+  "definition": "Forma de descartar a los mayores como anticuados.",
+  "solution_for_parents": "No reacciones con enfado. Pregunta si hay algo que no entiendes y escuchaos.",
+  "context_example": "\"Ok boomer, ya entendí.\""
+ },
+ {
+  "word": "boomer",
+  "definition": "Persona de la generación mayor (a menudo implica anticuado).",
+  "solution_for_parents": "Responde en broma para acortar distancias. Cuenta lo que aprendes de ellos.",
+  "context_example": "\"Mis padres son muy boomer.\""
+ },
+ {
+  "word": "skibidi",
+  "definition": "Palabra tonta sin sentido de la Generación Alfa, de vídeos de humor.",
+  "solution_for_parents": "Suele ser solo para reír. Mirad los vídeos juntos.",
+  "context_example": "\"Skibidi para todo.\""
+ },
+ {
+  "word": "sigma",
+  "definition": "Persona independiente, poco influida por otros, usada en broma.",
+  "solution_for_parents": "Es un elogio en broma. Ríete con él.",
+  "context_example": "\"Es muy sigma.\""
+ },
+ {
+  "word": "ohio",
+  "definition": "Forma de decir en broma que algo es raro o extraño.",
+  "solution_for_parents": "No busques un sentido profundo. Pregunta con humor.",
+  "context_example": "\"Este lugar es muy Ohio.\""
+ },
+ {
+  "word": "gyatt",
+  "definition": "Exclamación de sorpresa, a menudo bromeando sobre el aspecto físico.",
+  "solution_for_parents": "Recuérdale que no lo diga sobre personas reales de forma irrespetuosa.",
+  "context_example": "\"¡Gyatt, mira eso!\""
+ },
+ {
+  "word": "mewing",
+  "definition": "Postura de lengua y mandíbula para un rostro más marcado, convertida en moda.",
+  "solution_for_parents": "Habla de información de salud fiable.",
+  "context_example": "\"Hago mewing todos los días.\""
+ },
+ {
+  "word": "aura",
+  "definition": "La presencia o carisma de una persona; hay '+aura' y '-aura'.",
+  "solution_for_parents": "Es un juego de palabras. Pregunta por qué siente que perdió aura.",
+  "context_example": "\"Hacer eso te quita aura.\""
+ },
+ {
+  "word": "delulu",
+  "definition": "Ilusionado de forma feliz, imaginando lo que desea.",
+  "solution_for_parents": "Acepta la alegría y devuélvelo con suavidad a la realidad cuando haga falta.",
+  "context_example": "\"Estoy delulu pensando que aprobaré.\""
+ },
+ {
+  "word": "bet",
+  "definition": "De acuerdo, hecho, trato.",
+  "solution_for_parents": "Solo significa OK. No lo confundas con apostar.",
+  "context_example": "\"¿Cenamos esta noche? Bet.\""
+ },
+ {
+  "word": "periodt",
+  "definition": "Subraya que el asunto está cerrado, punto.",
+  "solution_for_parents": "Está afirmándose. Pide el motivo en vez de chocar.",
+  "context_example": "\"Voy a ir, periodt.\""
+ },
+ {
+  "word": "it's giving",
+  "definition": "Evoca cierta sensación o estilo.",
+  "solution_for_parents": "Es solo una descripción. Pregunta qué \"está dando\".",
+  "context_example": "\"Este conjunto da vibras de otoño.\""
+ },
+ {
+  "word": "touch grass",
+  "definition": "Recordatorio de salir y dejar de mirar pantallas.",
+  "solution_for_parents": "Invítalo a pasear en vez de dar órdenes.",
+  "context_example": "\"Necesitas tocar césped.\""
+ },
+ {
+  "word": "doomscrolling",
+  "definition": "Desplazarse sin parar por malas noticias sin poder dejarlo.",
+  "solution_for_parents": "Fijad juntos las horas de móvil sin culpar.",
+  "context_example": "\"Estuve haciendo doomscrolling hasta las 2.\""
+ },
+ {
+  "word": "screen time",
+  "definition": "Tiempo total mirando pantallas.",
+  "solution_for_parents": "Fijad límites juntos y da ejemplo.",
+  "context_example": "\"Mi tiempo de pantalla es de 6 horas.\""
+ },
+ {
+  "word": "unfollow",
+  "definition": "Dejar de seguir a alguien en línea.",
+  "solution_for_parents": "Pregunta por qué. No lo obligues a seguir a familiares.",
+  "context_example": "\"Le di unfollow.\""
+ },
+ {
+  "word": "seenzone",
+  "definition": "Leyó tu mensaje y no respondió.",
+  "solution_for_parents": "Le duele que lo ignoren. Consuélalo con suavidad.",
+  "context_example": "\"Me dejó en visto.\""
+ },
+ {
+  "word": "stalk",
+  "definition": "Mirar en silencio el perfil o la página de alguien.",
+  "solution_for_parents": "Habla de privacidad y respeto.",
+  "context_example": "\"Estoy stalkeando el perfil de mi crush.\""
+ },
+ {
+  "word": "spoiler",
+  "definition": "Revelar una película o historia antes de que otros la vean.",
+  "solution_for_parents": "Si dice \"sin spoilers\", respétalo.",
+  "context_example": "\"¡Mamá, sin spoilers!\""
+ },
+ {
+  "word": "cà khịa",
+  "definition": "Chincharse, burlarse o lanzar una pulla sutil.",
+  "solution_for_parents": "Pregunta si quiso bromear o decir algo en serio.",
+  "context_example": "\"Me está chinchando siempre.\""
+ },
+ {
+  "word": "bóc phốt",
+  "definition": "Exponer en línea lo malo que hizo alguien.",
+  "solution_for_parents": "Habla de consecuencias y de la línea entre justicia y ataque.",
+  "context_example": "\"Alguien fue expuesto en internet.\""
+ },
+ {
+  "word": "cancel culture",
+  "definition": "Boicotear públicamente a un famoso por mala conducta.",
+  "solution_for_parents": "Pregunta su opinión; hablad de perdón y responsabilidad.",
+  "context_example": "\"Ese cantante fue cancelado.\""
+ },
+ {
+  "word": "hater",
+  "definition": "Alguien que critica o detesta constantemente.",
+  "solution_for_parents": "Si un hater lo ataca, pon primero sus sentimientos.",
+  "context_example": "\"Un hater me mandó mensajes feos.\""
+ },
+ {
+  "word": "anti-fan",
+  "definition": "Persona que no soporta a un artista o grupo concreto.",
+  "solution_for_parents": "Recuérdale que no ataque a otros.",
+  "context_example": "\"Tengo un anti-fan.\""
+ },
+ {
+  "word": "fan cứng",
+  "definition": "Fan fiel de toda la vida.",
+  "solution_for_parents": "Pregunta por sus recuerdos con el ídolo.",
+  "context_example": "\"Soy fan incondicional de este grupo.\""
+ },
+ {
+  "word": "check var",
+  "definition": "Volver a verificar una información o afirmación.",
+  "solution_for_parents": "Anímalo a verificar y haz lo mismo tú.",
+  "context_example": "\"Espera, déjame comprobarlo.\""
+ },
+ {
+  "word": "đào mộ",
+  "definition": "Desenterrar publicaciones antiguas de alguien en línea.",
+  "solution_for_parents": "Habla de la huella digital: lo publicado puede durar mucho.",
+  "context_example": "\"Desenterraron su publicación antigua.\""
+ },
+ {
+  "word": "hít drama",
+  "definition": "Seguir dramas solo por entretenimiento.",
+  "solution_for_parents": "No hace falta prohibir. Sugiere equilibrar el tiempo.",
+  "context_example": "\"Estoy empapándome de drama.\""
+ },
+ {
+  "word": "ngó lơ",
+  "definition": "Ignorar a propósito, hacer como que no se ve.",
+  "solution_for_parents": "Pregunta qué quiere evitar, sobre todo con amigos.",
+  "context_example": "\"Me ignoraron.\""
+ }
+]

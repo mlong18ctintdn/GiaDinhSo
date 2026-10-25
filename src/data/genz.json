@@ -1,0 +1,728 @@
+[
+ {
+  "word": "flex",
+  "definition": "Khoe thành tích, đồ đạc hay cuộc sống của mình, đôi khi chỉ để vui.",
+  "solution_for_parents": "Hỏi thêm về niềm vui đằng sau thay vì chê khoe khoang. Con thường chỉ muốn được công nhận.",
+  "context_example": "Con đăng ảnh giày mới và nói: \"Flex tí thôi mẹ.\""
+ },
+ {
+  "word": "cringe",
+  "definition": "Thấy ngượng, sến hoặc khó coi thay cho người khác.",
+  "solution_for_parents": "Đừng coi là con vô lễ. Hỏi \"Điều gì làm con thấy ngượng?\" để hiểu gu của con.",
+  "context_example": "Con nói: \"Bố hát karaoke cringe quá.\""
+ },
+ {
+  "word": "crush",
+  "definition": "Người mình thầm thích, chưa chắc đã tỏ tình.",
+  "solution_for_parents": "Giữ thái độ nhẹ nhàng, không trêu chọc trước đông người. Con kể là tin tưởng bạn.",
+  "context_example": "\"Con có crush rồi, mẹ đừng hỏi nhiều.\""
+ },
+ {
+  "word": "red flag",
+  "definition": "Dấu hiệu cảnh báo xấu trong một mối quan hệ hoặc con người.",
+  "solution_for_parents": "Cứ hỏi \"Con thấy dấu hiệu nào đáng lo?\" Đây là cơ hội dạy con bảo vệ bản thân.",
+  "context_example": "\"Người nhắn tin kiểm soát là red flag.\""
+ },
+ {
+  "word": "green flag",
+  "definition": "Dấu hiệu tốt, đáng tin của một người hay mối quan hệ.",
+  "solution_for_parents": "Hỏi con điều gì tạo cảm giác an toàn, rồi chia sẻ tiêu chuẩn của mình.",
+  "context_example": "\"Bạn ấy biết lắng nghe, đúng green flag.\""
+ },
+ {
+  "word": "ghosting",
+  "definition": "Đột ngột biến mất, không trả lời tin nhắn, không giải thích.",
+  "solution_for_parents": "Nếu con bị ghosting, hãy ở bên cạnh trước, đừng vội phân tích lỗi của con.",
+  "context_example": "\"Người ta ghosting con ba ngày rồi.\""
+ },
+ {
+  "word": "simp",
+  "definition": "Người quá chiều chuộng người mình thích, đôi khi thiếu tự trọng.",
+  "solution_for_parents": "Đừng cười nhạo. Trò chuyện về cách yêu thương mà vẫn giữ ranh giới.",
+  "context_example": "\"Nó simp cô lớp trưởng lắm.\""
+ },
+ {
+  "word": "slay",
+  "definition": "Làm cực kỳ xuất sắc, tỏa sáng, thường dùng để khen.",
+  "solution_for_parents": "Đây là lời khen! Đáp lại bằng niềm vui, ví dụ \"Con làm tốt lắm, mẹ tự hào.\"",
+  "context_example": "\"Bộ đồ này slay quá!\""
+ },
+ {
+  "word": "no cap",
+  "definition": "Nói thật, không nói dối.",
+  "solution_for_parents": "Tin vào lời con, hỏi tiếp nếu cần chi tiết, tránh nghi ngờ ngay.",
+  "context_example": "\"Thi được 9 điểm, no cap.\""
+ },
+ {
+  "word": "cap",
+  "definition": "Nói dối hoặc phóng đại.",
+  "solution_for_parents": "Nếu con bảo \"cap\" về bạn, đừng phán xét. Hỏi con thấy điều gì không đúng.",
+  "context_example": "\"Nó bảo giàu lắm, cap thôi.\""
+ },
+ {
+  "word": "vibe",
+  "definition": "Cảm giác, bầu không khí hoặc năng lượng chung của một nơi hay người.",
+  "solution_for_parents": "Hỏi \"Vibe này là thế nào?\" Con sẽ vui khi bạn tò mò thật lòng.",
+  "context_example": "\"Quán này vibe dễ chịu ghê.\""
+ },
+ {
+  "word": "mood",
+  "definition": "Tâm trạng giống mình, hoặc một cảm xúc nào đó.",
+  "solution_for_parents": "\"Mood\" thường là cách con nói về cảm xúc. Hỏi nhẹ: \"Hôm nay con thấy sao?\"",
+  "context_example": "Con gửi meme con mèo nằm dài: \"Mood hôm nay.\""
+ },
+ {
+  "word": "toxic",
+  "definition": "Độc hại, gây ảnh hưởng xấu về tinh thần (người, môi trường, mối quan hệ).",
+  "solution_for_parents": "Hỏi cụ thể hành vi nào làm con khó chịu. Không bác bỏ cảm xúc của con.",
+  "context_example": "\"Nhóm chat lớp toxic quá.\""
+ },
+ {
+  "word": "gaslight",
+  "definition": "Thao túng khiến người khác nghi ngờ trí nhớ và cảm nhận của chính mình.",
+  "solution_for_parents": "Nếu con dùng từ này với mình, hãy bình tĩnh nghe xem con cảm thấy bị phủ nhận điều gì.",
+  "context_example": "\"Mẹ đừng gaslight con, con nhớ rõ mà.\""
+ },
+ {
+  "word": "FOMO",
+  "definition": "Sợ bị bỏ lỡ điều thú vị mà người khác đang trải qua.",
+  "solution_for_parents": "Chia sẻ lúc mình từng sợ bị bỏ lại. Cùng con đặt giờ giảm lướt mạng.",
+  "context_example": "\"Con FOMO vì cả nhóm đi chơi mà con ở nhà.\""
+ },
+ {
+  "word": "YOLO",
+  "definition": "Bạn chỉ sống một lần, nên cứ thử đi.",
+  "solution_for_parents": "Đừng cấm ngay. Hỏi con về rủi ro và cùng bàn mức an toàn.",
+  "context_example": "\"Đi phượt luôn, YOLO!\""
+ },
+ {
+  "word": "IRL",
+  "definition": "Ngoài đời thực, không phải trên mạng.",
+  "solution_for_parents": "Rủ con làm hoạt động thật cùng nhau, như nấu ăn hay đi dạo.",
+  "context_example": "\"Gặp IRL thì khác lắm.\""
+ },
+ {
+  "word": "OTP",
+  "definition": "Cặp đôi mình thích ghép (thường trong phim, truyện, thần tượng).",
+  "solution_for_parents": "Cứ hỏi vì sao con thích cặp này. Đây là cách con kết nối với bạn bè.",
+  "context_example": "\"Cặp này là OTP của con.\""
+ },
+ {
+  "word": "ship",
+  "definition": "Ủng hộ hai người thành đôi, dù là thật hay hư cấu.",
+  "solution_for_parents": "Cười cùng con, đừng cho là nhảm. Đây là niềm vui cộng đồng.",
+  "context_example": "\"Con ship hai bạn này quá.\""
+ },
+ {
+  "word": "bias",
+  "definition": "Thành viên yêu thích nhất của nhóm nhạc hoặc nhóm bạn.",
+  "solution_for_parents": "Hỏi tên bias và lý do. Con rất vui khi được kể.",
+  "context_example": "\"Bias của con là bạn đứng giữa.\""
+ },
+ {
+  "word": "stan",
+  "definition": "Hâm mộ cuồng nhiệt một nghệ sĩ hay người nổi tiếng.",
+  "solution_for_parents": "Hỏi con thích điều gì ở họ. Cùng đặt giới hạn chi tiêu hợp lý.",
+  "context_example": "\"Con stan nhóm này từ năm lớp 8.\""
+ },
+ {
+  "word": "fandom",
+  "definition": "Cộng đồng người hâm mộ cùng một thần tượng hay tác phẩm.",
+  "solution_for_parents": "Hiểu rằng fandom là nơi con thấy thuộc về. Hỏi về bạn bè trong đó.",
+  "context_example": "\"Fandom của con đang gây quỹ từ thiện.\""
+ },
+ {
+  "word": "drama",
+  "definition": "Chuyện ồn ào, mâu thuẫn, thường được bàn tán trên mạng.",
+  "solution_for_parents": "Hỏi con có bị ảnh hưởng không, nhắc không tham gia công kích người khác.",
+  "context_example": "\"Trên mạng có drama mới nữa.\""
+ },
+ {
+  "word": "hóng",
+  "definition": "Chờ đợi, theo dõi tin tức hoặc chuyện hấp dẫn.",
+  "solution_for_parents": "Hỏi con hóng gì, đừng cho là tò mò vô bổ. Có thể cùng hóng một chút!",
+  "context_example": "\"Con đang hóng phần tiếp theo.\""
+ },
+ {
+  "word": "cháy",
+  "definition": "Tuyệt vời, sôi động, làm hết mình.",
+  "solution_for_parents": "Một lời khen vui. Đáp lại bằng sự hào hứng.",
+  "context_example": "\"Buổi diễn tối qua cháy lắm!\""
+ },
+ {
+  "word": "xỉu up xỉu down",
+  "definition": "Quá dễ thương hoặc quá cảm động đến mức muốn xỉu.",
+  "solution_for_parents": "Đây là cách nói cường điệu để khen. Hãy mỉm cười.",
+  "context_example": "\"Em bé này dễ thương xỉu up xỉu down.\""
+ },
+ {
+  "word": "keo lỳ",
+  "definition": "Rất bản lĩnh, ngầu, lì đòn.",
+  "solution_for_parents": "Từ khen. Có thể đáp \"Con giỏi thật!\" để con thấy mình được công nhận.",
+  "context_example": "\"Bạn nam đó keo lỳ ghê.\""
+ },
+ {
+  "word": "u là trời",
+  "definition": "Cảm thán rất bất ngờ hoặc không thể tin nổi.",
+  "solution_for_parents": "Chỉ là cảm thán. Hỏi chuyện gì khiến con ngạc nhiên.",
+  "context_example": "\"U là trời, thi trượt rồi!\""
+ },
+ {
+  "word": "gét gô",
+  "definition": "Nghe lời \"Let's go\": hãy bắt đầu, cùng đi nào.",
+  "solution_for_parents": "Hưởng ứng niềm vui của con. Nó là sự hào hứng, không phải thái độ.",
+  "context_example": "\"Gét gô, đi ăn thôi!\""
+ },
+ {
+  "word": "ét o ét",
+  "definition": "Cầu cứu khẩn cấp, bắt chước SOS, thường là đùa.",
+  "solution_for_parents": "Phân biệt đùa và thật bằng giọng điệu. Khi con nhờ giúp, hãy luôn hỏi lại chuyện gì.",
+  "context_example": "\"Ét o ét, mai nộp bài mà chưa làm.\""
+ },
+ {
+  "word": "khum",
+  "definition": "Nói lái cách đáng yêu của \"không\".",
+  "solution_for_parents": "Chỉ là cách nói. Không cần sửa chính tả khi con đang trò chuyện thân mật.",
+  "context_example": "\"Khum, con không đi đâu.\""
+ },
+ {
+  "word": "bae",
+  "definition": "Người yêu hoặc người đặc biệt, cách gọi âu yếm.",
+  "solution_for_parents": "Đón nhận thông tin này nhẹ nhàng, hỏi thăm lịch sự.",
+  "context_example": "\"Tối nay con gặp bae.\""
+ },
+ {
+  "word": "baddie",
+  "definition": "Người tự tin, cá tính, thường chăm chút phong cách.",
+  "solution_for_parents": "Đây thường là lời khen. Hỏi con về phong cách riêng.",
+  "context_example": "\"Chị ấy đúng là baddie.\""
+ },
+ {
+  "word": "rizz",
+  "definition": "Sức hút, khả năng tán tỉnh hoặc thu hút người khác.",
+  "solution_for_parents": "Đừng ngại. Trò chuyện về giao tiếp lịch sự, tôn trọng người đối diện.",
+  "context_example": "\"Anh ấy có rizz cực mạnh.\""
+ },
+ {
+  "word": "sus",
+  "definition": "Đáng ngờ, có gì đó không ổn (từ trò chơi Among Us).",
+  "solution_for_parents": "Thường chỉ là đùa. Nếu thật sự thấy đáng ngờ, hỏi lý do để bảo đảm con an toàn.",
+  "context_example": "\"Tin nhắn này sus quá.\""
+ },
+ {
+  "word": "based",
+  "definition": "Giữ vững quan điểm của mình, không chạy theo số đông.",
+  "solution_for_parents": "Hỏi quan điểm của con là gì, đừng vội phản bác.",
+  "context_example": "\"Ý kiến của bạn đó rất based.\""
+ },
+ {
+  "word": "W",
+  "definition": "Từ \"win\": chiến thắng, điều tốt.",
+  "solution_for_parents": "Cùng ăn mừng với con. Một chữ cũng là một niềm vui.",
+  "context_example": "\"Được nghỉ sớm, W!\""
+ },
+ {
+  "word": "L",
+  "definition": "Từ \"loss\": thất bại hoặc điều tệ.",
+  "solution_for_parents": "Khi con nói L, đó là lúc cần an ủi, đừng vội dạy dỗ.",
+  "context_example": "\"Thi sáng nay là một cái L.\""
+ },
+ {
+  "word": "lowkey",
+  "definition": "Nhẹ nhàng, âm thầm, hơi hơi.",
+  "solution_for_parents": "Con đang thổ lộ điều nhỏ. Lắng nghe kỹ.",
+  "context_example": "\"Con lowkey lo kỳ thi này.\""
+ },
+ {
+  "word": "highkey",
+  "definition": "Rõ ràng, rất nhiều, không giấu giếm.",
+  "solution_for_parents": "Con đang nói thẳng. Ghi nhận sự thẳng thắn đó.",
+  "context_example": "\"Con highkey thích chiếc xe này.\""
+ },
+ {
+  "word": "bruh",
+  "definition": "Cảm thán khi chán, bất ngờ hoặc bó tay.",
+  "solution_for_parents": "Không phải thái độ hỗn. Hỏi \"Có chuyện gì vậy?\" bằng giọng bình thản.",
+  "context_example": "\"Bruh, lại hết pin rồi.\""
+ },
+ {
+  "word": "bestie",
+  "definition": "Bạn thân.",
+  "solution_for_parents": "Hỏi thăm bạn thân của con một cách thân thiện, không soi xét.",
+  "context_example": "\"Bestie của con học giỏi lắm.\""
+ },
+ {
+  "word": "NPC",
+  "definition": "Người sống theo thói quen, thiếu chủ kiến (từ nhân vật phụ trong game).",
+  "solution_for_parents": "Đừng xem là xúc phạm. Hỏi con về những điều muốn thay đổi.",
+  "context_example": "\"Sáng nào cũng đi làm, con thấy mình như NPC.\""
+ },
+ {
+  "word": "glow up",
+  "definition": "Thay đổi tích cực rõ rệt về ngoại hình hoặc bản thân.",
+  "solution_for_parents": "Khen sự nỗ lực. Tránh nhận xét ngoại hình tiêu cực.",
+  "context_example": "\"Một năm qua con glow up nhiều.\""
+ },
+ {
+  "word": "main character",
+  "definition": "Nhân vật chính, cảm giác mình là trung tâm câu chuyện của mình.",
+  "solution_for_parents": "Khích lệ con tự tin, kèm nhắc con quan tâm người khác.",
+  "context_example": "\"Hôm nay con vào vai main character.\""
+ },
+ {
+  "word": "đỉnh của chóp",
+  "definition": "Quá xuất sắc, hơn tất cả.",
+  "solution_for_parents": "Một lời khen lớn. Hãy đáp lại bằng niềm tự hào.",
+  "context_example": "\"Bài thuyết trình đỉnh của chóp!\""
+ },
+ {
+  "word": "chill",
+  "definition": "Thư giãn, thoải mái, không áp lực.",
+  "solution_for_parents": "Hỏi con muốn chill kiểu gì. Dành thời gian không mục đích cùng con.",
+  "context_example": "\"Cuối tuần cứ chill thôi.\""
+ },
+ {
+  "word": "overthinking",
+  "definition": "Nghĩ quá nhiều, lo xa quá mức.",
+  "solution_for_parents": "Ngồi cạnh nghe, hỏi \"Điều gì làm con lo nhất?\" và cùng viết ra giấy.",
+  "context_example": "\"Con hay overthinking trước khi ngủ.\""
+ },
+ {
+  "word": "burnout",
+  "definition": "Kiệt sức vì áp lực học tập hoặc công việc kéo dài.",
+  "solution_for_parents": "Giảm kỳ vọng tạm thời, cho con nghỉ ngơi. Nếu kéo dài, cân nhắc gặp chuyên gia.",
+  "context_example": "\"Con burnout sau mùa thi.\""
+ },
+ {
+  "word": "gánh team",
+  "definition": "Một người làm phần lớn việc cho cả nhóm.",
+  "solution_for_parents": "Hỏi con cảm thấy ra sao và cách chia việc công bằng hơn.",
+  "context_example": "\"Cả tuần nay con gánh team làm bài nhóm.\""
+ },
+ {
+  "word": "cày",
+  "definition": "Làm hoặc chơi liên tục, chăm chỉ lặp lại một việc.",
+  "solution_for_parents": "Hỏi con cày gì. Nếu cày game, cùng thỏa thuận giờ nghỉ.",
+  "context_example": "\"Tối nay con cày bài đến khuya.\""
+ },
+ {
+  "word": "farm",
+  "definition": "Tích lũy dần tài nguyên hay điểm trong game; đôi khi là tích điểm cho mục tiêu khác.",
+  "solution_for_parents": "Hỏi về mục tiêu của con thay vì cấm game.",
+  "context_example": "\"Con đang farm vàng để mua trang bị.\""
+ },
+ {
+  "word": "AFK",
+  "definition": "Rời máy tính hoặc điện thoại một lúc.",
+  "solution_for_parents": "Con báo trước là biết lịch sự. Tôn trọng khi con AFK.",
+  "context_example": "\"Con AFK ăn cơm nhé.\""
+ },
+ {
+  "word": "troll",
+  "definition": "Trêu chọc, chọc ghẹo để gây cười hoặc gây rối.",
+  "solution_for_parents": "Phân biệt vui và quấy rối. Cùng nói về ranh giới khi đùa.",
+  "context_example": "\"Con chỉ troll bạn thôi.\""
+ },
+ {
+  "word": "noob",
+  "definition": "Người mới chơi, chưa có kinh nghiệm.",
+  "solution_for_parents": "Dùng được cả khi đùa. Hãy nhắc con không dùng để chê bai người khác.",
+  "context_example": "\"Mẹ chơi game này như noob vậy.\""
+ },
+ {
+  "word": "pro",
+  "definition": "Người chơi giỏi, thành thạo.",
+  "solution_for_parents": "Một lời khen. Hỏi con chỉ mình chơi thử.",
+  "context_example": "\"Anh ấy chơi pro lắm.\""
+ },
+ {
+  "word": "gg",
+  "definition": "Chơi tốt, thường nói khi trận đấu kết thúc.",
+  "solution_for_parents": "Dấu hiệu fair-play, hãy khen con.",
+  "context_example": "\"Thua rồi nhưng gg.\""
+ },
+ {
+  "word": "buff",
+  "definition": "Tăng sức mạnh, hoặc tăng cường điều gì đó.",
+  "solution_for_parents": "Chỉ là thuật ngữ game. Hỏi con để hiểu thêm.",
+  "context_example": "\"Con buff nhân vật này lên mạnh lắm.\""
+ },
+ {
+  "word": "nerf",
+  "definition": "Làm yếu bớt, giảm sức mạnh.",
+  "solution_for_parents": "Hỏi con cảm thấy bất công hay không, không cần giải quyết gì thêm.",
+  "context_example": "\"Họ vừa nerf nhân vật yêu thích của con.\""
+ },
+ {
+  "word": "lag",
+  "definition": "Chậm, giật, độ trễ.",
+  "solution_for_parents": "Hỏi giúp kiểm tra Wi‑Fi, thay vì mắng con chơi game.",
+  "context_example": "\"Mạng lag quá, con thua rồi.\""
+ },
+ {
+  "word": "skill issue",
+  "definition": "Do kỹ năng chưa đủ, không phải lỗi của thứ khác.",
+  "solution_for_parents": "Cách nói đùa. Nếu con dùng với mình, đáp bằng nụ cười.",
+  "context_example": "\"Thua là skill issue thôi.\""
+ },
+ {
+  "word": "hack não",
+  "definition": "Gây ám ảnh, khó dứt ra (nhạc, câu nói).",
+  "solution_for_parents": "Nhẹ nhàng. Có thể hỏi con bài nhạc đó.",
+  "context_example": "\"Bài này hack não lắm.\""
+ },
+ {
+  "word": "sống ảo",
+  "definition": "Chăm chút hình ảnh trên mạng hơn là đời thực.",
+  "solution_for_parents": "Tránh chê. Nói về lúc mình từng muốn được công nhận.",
+  "context_example": "\"Nó chụp hình sống ảo cả buổi.\""
+ },
+ {
+  "word": "check-in",
+  "definition": "Đăng vị trí hoặc ảnh khi đến một nơi.",
+  "solution_for_parents": "Cùng thỏa thuận chia sẻ vị trí an toàn.",
+  "context_example": "\"Con check-in quán cà phê mới.\""
+ },
+ {
+  "word": "tương tác",
+  "definition": "Like, bình luận, chia sẻ, phản hồi trên mạng.",
+  "solution_for_parents": "Hiểu rằng tương tác là cách con giữ kết nối bạn bè.",
+  "context_example": "\"Bài này tương tác cao quá.\""
+ },
+ {
+  "word": "viral",
+  "definition": "Lan truyền nhanh trên mạng.",
+  "solution_for_parents": "Hỏi con xem video nào và có thật không. Dạy cách kiểm tra tin.",
+  "context_example": "\"Clip này viral rồi.\""
+ },
+ {
+  "word": "trend",
+  "definition": "Xu hướng đang được nhiều người làm theo.",
+  "solution_for_parents": "Thử cùng quay một trend lành mạnh, con sẽ thích.",
+  "context_example": "\"Trend này con làm thử.\""
+ },
+ {
+  "word": "content",
+  "definition": "Nội dung (video, ảnh, bài viết) để đăng tải.",
+  "solution_for_parents": "Hỏi về nội dung con tạo, không mặc định là lãng phí thời gian.",
+  "context_example": "\"Con đang nghĩ content mới.\""
+ },
+ {
+  "word": "creator",
+  "definition": "Người sáng tạo nội dung trên mạng.",
+  "solution_for_parents": "Hỏi về kênh của con, hỗ trợ về quyền riêng tư.",
+  "context_example": "\"Con muốn làm creator.\""
+ },
+ {
+  "word": "livestream",
+  "definition": "Phát trực tiếp.",
+  "solution_for_parents": "Cùng bàn quy tắc an toàn: không để lộ địa chỉ, không phát lúc học.",
+  "context_example": "\"Con xem livestream nhạc.\""
+ },
+ {
+  "word": "mukbang",
+  "definition": "Quay video ăn uống thật nhiều trước camera.",
+  "solution_for_parents": "Giữ thái độ cởi mở, nhưng nhắc con ăn lành mạnh.",
+  "context_example": "\"Tối nay xem mukbang.\""
+ },
+ {
+  "word": "ASMR",
+  "definition": "Âm thanh thư giãn khiến người nghe dễ chịu, buồn ngủ.",
+  "solution_for_parents": "Biết đây là cách con thư giãn, hãy tôn trọng.",
+  "context_example": "\"Con nghe ASMR để ngủ.\""
+ },
+ {
+  "word": "meme",
+  "definition": "Hình, video hài hước lan truyền trên mạng.",
+  "solution_for_parents": "Hãy xem meme với con. Cười chung giúp hiểu nhau.",
+  "context_example": "\"Gửi mẹ cái meme này.\""
+ },
+ {
+  "word": "bựa",
+  "definition": "Hài nhảm, đùa lố một cách duyên dáng hoặc khó chịu.",
+  "solution_for_parents": "Hỏi giới hạn của con. Nhắc rằng đùa nên không làm ai tổn thương.",
+  "context_example": "\"Nó bựa nhưng vui.\""
+ },
+ {
+  "word": "lầy",
+  "definition": "Tinh nghịch, hay trêu và không nghiêm túc.",
+  "solution_for_parents": "Thường không ác ý. Đừng cho là hư.",
+  "context_example": "\"Con trai tôi lầy lắm.\""
+ },
+ {
+  "word": "tấu hài",
+  "definition": "Làm trò vui, gây cười.",
+  "solution_for_parents": "Bật cười cùng con.",
+  "context_example": "\"Cả nhóm tấu hài cả buổi.\""
+ },
+ {
+  "word": "thả thính",
+  "definition": "Nói những câu tán tỉnh để gây chú ý.",
+  "solution_for_parents": "Đừng làm lớn chuyện. Trò chuyện về tôn trọng và đồng thuận.",
+  "context_example": "\"Nó thả thính cô bạn lớp bên.\""
+ },
+ {
+  "word": "thính",
+  "definition": "Câu nói tán tỉnh, hay một hành động gợi ý tình cảm.",
+  "solution_for_parents": "Hỏi nhẹ nhàng, tránh tra khảo.",
+  "context_example": "\"Câu thính này sến quá.\""
+ },
+ {
+  "word": "friendzone",
+  "definition": "Bị coi chỉ là bạn, không thể tiến xa hơn.",
+  "solution_for_parents": "Ở bên con, đừng chê. Nỗi buồn này là thật.",
+  "context_example": "\"Con bị friendzone rồi.\""
+ },
+ {
+  "word": "talking stage",
+  "definition": "Giai đoạn tìm hiểu nhau trước khi chính thức hẹn hò.",
+  "solution_for_parents": "Nói về sự tôn trọng. Đừng cố biết mọi chi tiết.",
+  "context_example": "\"Tụi con đang talking stage.\""
+ },
+ {
+  "word": "situationship",
+  "definition": "Mối quan hệ lửng lơ, chưa rõ ràng là gì.",
+  "solution_for_parents": "Hỏi con muốn gì, tránh phán xét.",
+  "context_example": "\"Con với bạn ấy là situationship.\""
+ },
+ {
+  "word": "breadcrumbing",
+  "definition": "Thả vài lời quan tâm nhỏ để giữ ai đó chờ đợi mà không cam kết.",
+  "solution_for_parents": "Giúp con nhận ra cảm giác bị lơ lửng và quyền được rõ ràng.",
+  "context_example": "\"Nó cứ breadcrumbing con mãi.\""
+ },
+ {
+  "word": "love bombing",
+  "definition": "Dồn dập thể hiện tình cảm quá mức để kiểm soát.",
+  "solution_for_parents": "Dạy con nhận biết dấu hiệu, hỏi con cảm thấy thế nào.",
+  "context_example": "\"Mới quen mà đã love bombing.\""
+ },
+ {
+  "word": "me time",
+  "definition": "Thời gian dành riêng cho bản thân.",
+  "solution_for_parents": "Tôn trọng. Con cần khoảng không để sạc lại.",
+  "context_example": "\"Chiều nay là me time.\""
+ },
+ {
+  "word": "self-care",
+  "definition": "Tự chăm sóc bản thân về thể chất và tinh thần.",
+  "solution_for_parents": "Khuyến khích con, đừng cho là ích kỷ.",
+  "context_example": "\"Con đang self-care bằng skincare.\""
+ },
+ {
+  "word": "healing",
+  "definition": "Chữa lành tinh thần sau tổn thương hoặc mệt mỏi.",
+  "solution_for_parents": "Hỏi con cần gì. Nếu kéo dài, gợi ý nói chuyện với chuyên gia.",
+  "context_example": "\"Con đi một mình để healing.\""
+ },
+ {
+  "word": "ổn áp",
+  "definition": "Ổn, đáng tin, mọi thứ đều tốt.",
+  "solution_for_parents": "Một cách nói khen nhẹ nhàng.",
+  "context_example": "\"Kế hoạch này ổn áp.\""
+ },
+ {
+  "word": "ngầu",
+  "definition": "Phong cách, cá tính, bản lĩnh.",
+  "solution_for_parents": "Có thể khen con khi con tự tin.",
+  "context_example": "\"Anh ấy ngầu lắm.\""
+ },
+ {
+  "word": "swag",
+  "definition": "Phong cách riêng, tự tin.",
+  "solution_for_parents": "Khen sự tự tin và gu thời trang của con.",
+  "context_example": "\"Con thấy mình rất swag hôm nay.\""
+ },
+ {
+  "word": "đu trend",
+  "definition": "Chạy theo xu hướng đang hot.",
+  "solution_for_parents": "Hỏi vì sao con thích trend đó, tránh nói chạy theo đám đông.",
+  "context_example": "\"Con muốn đu trend này.\""
+ },
+ {
+  "word": "xu cà na",
+  "definition": "Xui xẻo, rủi ro.",
+  "solution_for_parents": "Trấn an, đừng giảng giải. Con chỉ cần được thấu hiểu.",
+  "context_example": "\"Hôm nay con xu cà na.\""
+ },
+ {
+  "word": "sương sương",
+  "definition": "Nhẹ nhàng, dễ dàng, không có gì to tát.",
+  "solution_for_parents": "Cách nói khiêm tốn, đừng cho là xem thường.",
+  "context_example": "\"Bài này sương sương thôi.\""
+ },
+ {
+  "word": "ok boomer",
+  "definition": "Cách nói chê người lớn tuổi lạc hậu.",
+  "solution_for_parents": "Đừng phản ứng giận dữ. Hỏi con có điều gì mình chưa hiểu, cùng lắng nghe nhau.",
+  "context_example": "\"Ok boomer, con hiểu rồi.\""
+ },
+ {
+  "word": "boomer",
+  "definition": "Người thuộc thế hệ lớn tuổi (thường hàm ý cũ kỹ).",
+  "solution_for_parents": "Thử nói đùa lại để giảm khoảng cách. Chia sẻ điều mình học được từ con.",
+  "context_example": "\"Ba mẹ boomer quá.\""
+ },
+ {
+  "word": "skibidi",
+  "definition": "Từ vô nghĩa vui nhộn của Gen Alpha, bắt nguồn từ video hài.",
+  "solution_for_parents": "Thường chỉ để cười. Hãy thử xem video cùng con.",
+  "context_example": "\"Skibidi gì cũng có.\""
+ },
+ {
+  "word": "sigma",
+  "definition": "Người độc lập, ít bị ảnh hưởng, thường dùng đùa.",
+  "solution_for_parents": "Chỉ là lời khen đùa. Cười cùng con.",
+  "context_example": "\"Anh ấy sigma thật.\""
+ },
+ {
+  "word": "ohio",
+  "definition": "Cách nói đùa về điều kỳ quặc, lạ lùng.",
+  "solution_for_parents": "Đừng tìm ý nghĩa sâu xa. Hỏi con vui vui.",
+  "context_example": "\"Chỗ này ohio quá.\""
+ },
+ {
+  "word": "gyatt",
+  "definition": "Cảm thán khi bất ngờ, thường mang ý đùa về ngoại hình.",
+  "solution_for_parents": "Nhắc con không dùng với người thật theo cách thiếu tôn trọng.",
+  "context_example": "\"Gyatt, nhìn kìa!\""
+ },
+ {
+  "word": "mewing",
+  "definition": "Tư thế lưỡi và hàm để có gương mặt rõ nét, thành trào lưu.",
+  "solution_for_parents": "Nói chuyện với con về thông tin sức khỏe đáng tin.",
+  "context_example": "\"Con đang mewing mỗi ngày.\""
+ },
+ {
+  "word": "aura",
+  "definition": "Khí chất hay sức hút của một người; có \"+aura\" và \"-aura\".",
+  "solution_for_parents": "Chỉ là cách chơi chữ. Hỏi con vì sao thấy mình mất aura.",
+  "context_example": "\"Làm vậy là mất aura.\""
+ },
+ {
+  "word": "delulu",
+  "definition": "Hoang tưởng một cách vui vẻ, ảo tưởng điều mình mong muốn.",
+  "solution_for_parents": "Chấp nhận niềm vui, nhẹ nhàng đưa con về thực tế khi cần.",
+  "context_example": "\"Con delulu là mình sẽ đậu.\""
+ },
+ {
+  "word": "bet",
+  "definition": "Đồng ý, được thôi, chốt.",
+  "solution_for_parents": "Chỉ là \"OK\". Đừng hiểu nhầm là cá cược.",
+  "context_example": "\"Tối nay đi ăn nhé? Bet.\""
+ },
+ {
+  "word": "periodt",
+  "definition": "Nhấn mạnh rằng chuyện đã chốt, hết bàn.",
+  "solution_for_parents": "Con đang khẳng định. Hỏi thêm lý do thay vì đối đầu.",
+  "context_example": "\"Con sẽ đi, periodt.\""
+ },
+ {
+  "word": "it's giving",
+  "definition": "Gợi cho mình cảm giác, phong cách nào đó.",
+  "solution_for_parents": "Chỉ là cách miêu tả. Hỏi con \"giving\" cái gì.",
+  "context_example": "\"Bộ đồ này it's giving mùa thu.\""
+ },
+ {
+  "word": "touch grass",
+  "definition": "Lời nhắc ra ngoài hít thở, đừng dán mắt vào màn hình.",
+  "solution_for_parents": "Rủ con ra ngoài đi dạo thay vì ra lệnh.",
+  "context_example": "\"Bạn cần touch grass đi.\""
+ },
+ {
+  "word": "doomscrolling",
+  "definition": "Lướt tin xấu liên tục khó dừng lại.",
+  "solution_for_parents": "Cùng đặt giờ dùng điện thoại, không phê phán.",
+  "context_example": "\"Con doomscrolling đến 2 giờ sáng.\""
+ },
+ {
+  "word": "screen time",
+  "definition": "Tổng thời gian nhìn vào màn hình.",
+  "solution_for_parents": "Đặt giới hạn cùng con và gương mẫu.",
+  "context_example": "\"Screen time của con 6 tiếng.\""
+ },
+ {
+  "word": "unfollow",
+  "definition": "Ngừng theo dõi ai đó trên mạng.",
+  "solution_for_parents": "Hỏi con vì sao, đừng ép con follow người thân.",
+  "context_example": "\"Con unfollow nó rồi.\""
+ },
+ {
+  "word": "seenzone",
+  "definition": "Đã đọc nhưng không trả lời tin nhắn.",
+  "solution_for_parents": "Con đang buồn vì bị bỏ lơ. An ủi nhẹ nhàng.",
+  "context_example": "\"Nó seenzone con luôn.\""
+ },
+ {
+  "word": "stalk",
+  "definition": "Âm thầm xem hồ sơ hay trang cá nhân của ai đó.",
+  "solution_for_parents": "Nói về quyền riêng tư và sự tôn trọng.",
+  "context_example": "\"Con đang stalk trang của crush.\""
+ },
+ {
+  "word": "spoiler",
+  "definition": "Tiết lộ nội dung phim, truyện trước khi người khác xem.",
+  "solution_for_parents": "Nếu con nói \"đừng spoil\", hãy tôn trọng mong muốn.",
+  "context_example": "\"Mẹ ơi đừng spoil!\""
+ },
+ {
+  "word": "cà khịa",
+  "definition": "Chọc ghẹo, trêu nhẹ hoặc đá xéo.",
+  "solution_for_parents": "Hỏi con muốn đùa hay thật sự muốn thể hiện điều gì.",
+  "context_example": "\"Nó cà khịa con suốt.\""
+ },
+ {
+  "word": "bóc phốt",
+  "definition": "Phơi bày chuyện xấu của ai đó trên mạng.",
+  "solution_for_parents": "Nói về hậu quả và ranh giới giữa công lý và công kích.",
+  "context_example": "\"Có người bị bóc phốt trên mạng.\""
+ },
+ {
+  "word": "cancel culture",
+  "definition": "Tẩy chay công khai người nổi tiếng vì hành vi sai.",
+  "solution_for_parents": "Hỏi quan điểm của con, cùng bàn việc tha thứ và trách nhiệm.",
+  "context_example": "\"Ca sĩ đó bị cancel rồi.\""
+ },
+ {
+  "word": "hater",
+  "definition": "Người hay chê bai, ghét bỏ.",
+  "solution_for_parents": "Nếu con bị hater công kích, ưu tiên cảm xúc của con.",
+  "context_example": "\"Con bị hater gửi tin xấu.\""
+ },
+ {
+  "word": "anti-fan",
+  "definition": "Người ghét một nghệ sĩ hay nhóm cụ thể.",
+  "solution_for_parents": "Nhắc con không công kích người khác.",
+  "context_example": "\"Con có anti-fan đó.\""
+ },
+ {
+  "word": "fan cứng",
+  "definition": "Người hâm mộ trung thành lâu năm.",
+  "solution_for_parents": "Hỏi con kỷ niệm của mình với thần tượng.",
+  "context_example": "\"Con là fan cứng nhóm này.\""
+ },
+ {
+  "word": "check var",
+  "definition": "Kiểm chứng lại một thông tin hay lời nói.",
+  "solution_for_parents": "Khuyến khích con kiểm chứng, và làm gương như vậy.",
+  "context_example": "\"Chờ con check var đã.\""
+ },
+ {
+  "word": "đào mộ",
+  "definition": "Lục lại bài, tin cũ của ai đó trên mạng.",
+  "solution_for_parents": "Nói về dấu vết số: điều đăng lên có thể tồn tại lâu.",
+  "context_example": "\"Họ đào mộ bài cũ của nó.\""
+ },
+ {
+  "word": "hít drama",
+  "definition": "Theo dõi chuyện ồn ào chỉ để giải trí.",
+  "solution_for_parents": "Không cần cấm, hãy gợi ý cân bằng thời gian.",
+  "context_example": "\"Con đang hít drama.\""
+ },
+ {
+  "word": "ngó lơ",
+  "definition": "Cố tình không để ý, làm lơ.",
+  "solution_for_parents": "Hỏi con muốn tránh điều gì, nhất là với bạn bè.",
+  "context_example": "\"Nó ngó lơ con.\""
+ }
+]

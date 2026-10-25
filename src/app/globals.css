@@ -1,0 +1,60 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Adult (parents): calm slate and warm grey */
+:root,
+[data-theme='adult'] {
+  --bg: #ecebe7; --fg: #22252a; --card: #fafaf7; --muted: #5a5f67;
+  --accent: #38587a; --accent-fg: #ffffff; --border: #d0cec8;
+  --leaf: #5e8c6a; --fruit: #c8793a; --trunk: #6b5b4b;
+  --radius: 12px; font-size: 16px;
+}
+/* Elderly (grandparents): extra-large type, cream, high contrast */
+[data-theme='elder'] {
+  --bg: #f6ecd6; --fg: #231707; --card: #fff8e8; --muted: #594526;
+  --accent: #1f5c3f; --accent-fg: #ffffff; --border: #c9b68e;
+  --leaf: #4c8c4a; --fruit: #d9822b; --trunk: #7a5230;
+  --radius: 18px; font-size: 22px;
+}
+/* Youth themes (teens and children) */
+[data-theme='youth-neon'] {
+  --bg: #0a0a18; --fg: #f2f2ff; --card: #14142b; --muted: #a6a6d0;
+  --accent: #ff2bd6; --accent-fg: #0a0a18; --border: #33336b;
+  --leaf: #39ff88; --fruit: #00f0ff; --trunk: #7b61ff;
+  --radius: 20px; font-size: 17px;
+}
+[data-theme='youth-pastel'] {
+  --bg: #f6f0ff; --fg: #2d2946; --card: #ffffff; --muted: #655f86;
+  --accent: #6a58d0; --accent-fg: #ffffff; --border: #ddd2f7;
+  --leaf: #6fd0ab; --fruit: #ff8fb1; --trunk: #b79ae8;
+  --radius: 24px; font-size: 17px;
+}
+[data-theme='youth-cyber'] {
+  --bg: #12071f; --fg: #fdf6e3; --card: #1f0b35; --muted: #c4a9e6;
+  --accent: #ffe600; --accent-fg: #12071f; --border: #00cfe6;
+  --leaf: #b6ff3b; --fruit: #00e5ff; --trunk: #ff2bd6;
+  --radius: 6px; font-size: 17px;
+}
+
+/* Grandparents always keep the large size, whichever colour theme they choose. */
+[data-size='large'] { font-size: 22px; }
+
+[data-font='sans'] { --font-active: var(--font-be); }
+[data-font='round'] { --font-active: var(--font-baloo); }
+[data-font='grotesk'] { --font-active: var(--font-grotesk); }
+
+body {
+  background: var(--bg);
+  color: var(--fg);
+  font-family: var(--font-active), system-ui, sans-serif;
+  line-height: 1.55;
+}
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+
+@layer components {
+  .card { @apply rounded-theme border border-border bg-card p-4; }
+  .field {
+    @apply w-full rounded-theme border-2 border-border bg-bg px-3 py-2.5 text-fg outline-none placeholder:text-muted focus:border-accent;
+  }
+}

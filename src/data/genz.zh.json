@@ -1,0 +1,728 @@
+[
+ {
+  "word": "flex",
+  "definition": "炫耀成就、物品或生活，有时只是图个开心。",
+  "solution_for_parents": "先问问背后的开心事，别说他炫耀。孩子往往只想被认可。",
+  "context_example": "孩子晒新鞋：“就小炫一下，妈。”"
+ },
+ {
+  "word": "cringe",
+  "definition": "对尴尬、土气的事感到不好意思或替人尴尬。",
+  "solution_for_parents": "别当作不尊重。问“什么让你觉得尴尬？”了解他的品味。",
+  "context_example": "“爸爸唱卡拉OK好尴尬。”"
+ },
+ {
+  "word": "crush",
+  "definition": "偷偷喜欢的人，不一定表白过。",
+  "solution_for_parents": "语气温和，别在人前打趣。他肯告诉你是出于信任。",
+  "context_example": "“我有喜欢的人了，妈别多问。”"
+ },
+ {
+  "word": "red flag",
+  "definition": "人或关系里的危险信号。",
+  "solution_for_parents": "问他看到了哪些让人担心的迹象，正好教他保护自己。",
+  "context_example": "“老是查手机就是红旗。”"
+ },
+ {
+  "word": "green flag",
+  "definition": "人或关系里的好兆头，值得信任。",
+  "solution_for_parents": "问他什么让他有安全感，再分享你自己的标准。",
+  "context_example": "“他很会倾听，真是绿旗。”"
+ },
+ {
+  "word": "ghosting",
+  "definition": "突然消失，不回消息也不解释。",
+  "solution_for_parents": "孩子被这样对待时先陪着他，别急着分析他的错。",
+  "context_example": "“他已经三天不理我了。”"
+ },
+ {
+  "word": "simp",
+  "definition": "对喜欢的人过分迁就、有时失去自尊的人。",
+  "solution_for_parents": "别取笑他。聊聊如何表达喜欢又守住界限。",
+  "context_example": "“他超迷班长。”"
+ },
+ {
+  "word": "slay",
+  "definition": "做得特别出色，用来夸人。",
+  "solution_for_parents": "这是夸奖！热情回应：“你做得很好，妈妈为你骄傲。”",
+  "context_example": "“这身衣服太绝了！”"
+ },
+ {
+  "word": "no cap",
+  "definition": "说真的，不骗你。",
+  "solution_for_parents": "相信他的话，需要细节再问，别马上怀疑。",
+  "context_example": "“考了9分，真的。”"
+ },
+ {
+  "word": "cap",
+  "definition": "说谎或夸大。",
+  "solution_for_parents": "如果他说别人在“cap”，别评判，问他哪里不对劲。",
+  "context_example": "“他说自己很有钱，吹牛的。”"
+ },
+ {
+  "word": "vibe",
+  "definition": "一个地方或一个人的感觉、氛围、能量。",
+  "solution_for_parents": "问“这是什么感觉？”真心好奇会让孩子高兴。",
+  "context_example": "“这家咖啡馆氛围真舒服。”"
+ },
+ {
+  "word": "mood",
+  "definition": "说“我也是这种心情”，或指当下的情绪。",
+  "solution_for_parents": "“mood”常常是他谈感受的方式。轻轻问：“今天感觉怎么样？”",
+  "context_example": "孩子发来一张瘫倒的猫图：“今日心情。”"
+ },
+ {
+  "word": "toxic",
+  "definition": "对精神有害（人、环境、关系）。",
+  "solution_for_parents": "具体问哪种行为让他难受，别否定他的感受。",
+  "context_example": "“班级群太有毒了。”"
+ },
+ {
+  "word": "gaslight",
+  "definition": "操纵他人怀疑自己的记忆和感受。",
+  "solution_for_parents": "如果他对你这么说，保持冷静，听他觉得哪里被否定了。",
+  "context_example": "“妈，别PUA我，我记得很清楚。”"
+ },
+ {
+  "word": "FOMO",
+  "definition": "害怕错过别人正在经历的有趣事情。",
+  "solution_for_parents": "分享你被落下的经历，一起约定刷手机的时间。",
+  "context_example": "“大家都出去玩了，我在家，好焦虑。”"
+ },
+ {
+  "word": "YOLO",
+  "definition": "人只活一次，所以去试试吧。",
+  "solution_for_parents": "别马上禁止。问问风险，一起约定安全的范围。",
+  "context_example": "“说走就走去旅行，YOLO！”"
+ },
+ {
+  "word": "IRL",
+  "definition": "现实生活中，不是网上。",
+  "solution_for_parents": "约他一起做真实的活动，比如做饭或散步。",
+  "context_example": "“现实里见面就不一样了。”"
+ },
+ {
+  "word": "OTP",
+  "definition": "最想让他们成对的一对（影视、小说、偶像）。",
+  "solution_for_parents": "问他为什么喜欢这一对，这是他和朋友交流的方式。",
+  "context_example": "“这对是我的本命CP。”"
+ },
+ {
+  "word": "ship",
+  "definition": "支持两个人成为一对，无论真实还是虚构。",
+  "solution_for_parents": "陪他笑，别说无聊，这是大家共同的快乐。",
+  "context_example": "“我太磕这两个人了。”"
+ },
+ {
+  "word": "bias",
+  "definition": "团体里最喜欢的成员。",
+  "solution_for_parents": "问他的本命是谁、为什么，他很乐意讲。",
+  "context_example": "“我的本命是中间那个。”"
+ },
+ {
+  "word": "stan",
+  "definition": "狂热地支持某位艺人或名人。",
+  "solution_for_parents": "问他喜欢对方什么，一起约定合理的花费上限。",
+  "context_example": "“我从初二就追这个组合。”"
+ },
+ {
+  "word": "fandom",
+  "definition": "同一个偶像或作品的粉丝社群。",
+  "solution_for_parents": "粉丝圈是他的归属感所在，问问圈里的朋友。",
+  "context_example": "“我们粉丝圈正在为公益募捐。”"
+ },
+ {
+  "word": "drama",
+  "definition": "吵闹的纠纷，通常在网上被议论。",
+  "solution_for_parents": "问他有没有受影响，提醒不要攻击别人。",
+  "context_example": "“网上又有新瓜了。”"
+ },
+ {
+  "word": "hóng",
+  "definition": "等待、关注热门消息或八卦。",
+  "solution_for_parents": "问他在等什么，别说是无聊好奇，也可以一起等！",
+  "context_example": "“我在等下一集。”"
+ },
+ {
+  "word": "cháy",
+  "definition": "太棒了，气氛热烈，全力以赴。",
+  "solution_for_parents": "一句有趣的夸奖，热情回应即可。",
+  "context_example": "“昨晚的演出太燃了！”"
+ },
+ {
+  "word": "xỉu up xỉu down",
+  "definition": "可爱或感动到想晕倒。",
+  "solution_for_parents": "这是夸张的夸奖，笑一笑就好。",
+  "context_example": "“这个宝宝可爱到晕倒。”"
+ },
+ {
+  "word": "keo lỳ",
+  "definition": "很有气场，很酷，很扛得住。",
+  "solution_for_parents": "是夸奖，可以回：“你真厉害！”让他感到被认可。",
+  "context_example": "“那个男生太帅气了。”"
+ },
+ {
+  "word": "u là trời",
+  "definition": "表示很惊讶或难以置信的感叹。",
+  "solution_for_parents": "只是感叹，问问什么让他吃惊。",
+  "context_example": "“天哪，考砸了！”"
+ },
+ {
+  "word": "gét gô",
+  "definition": "来自 Let's go：开始吧，走吧。",
+  "solution_for_parents": "分享他的兴奋，这是热情，不是态度。",
+  "context_example": "“走啦，吃饭去！”"
+ },
+ {
+  "word": "ét o ét",
+  "definition": "紧急求救，模仿 SOS，多半是开玩笑。",
+  "solution_for_parents": "用语气分辨是玩笑还是真的。他求助时一定要问发生了什么。",
+  "context_example": "“救命，明天交作业我还没写。”"
+ },
+ {
+  "word": "khum",
+  "definition": "“không（不）”的可爱说法。",
+  "solution_for_parents": "只是说话方式，亲密聊天时不用纠正拼写。",
+  "context_example": "“不要，我哪儿都不去。”"
+ },
+ {
+  "word": "bae",
+  "definition": "恋人或特别的人，亲昵称呼。",
+  "solution_for_parents": "平和地接受这个消息，礼貌地问问。",
+  "context_example": "“今晚我去见我家宝贝。”"
+ },
+ {
+  "word": "baddie",
+  "definition": "自信、有个性、注重造型的人。",
+  "solution_for_parents": "通常是夸奖。问问他自己的风格。",
+  "context_example": "“她真是个狠角色。”"
+ },
+ {
+  "word": "rizz",
+  "definition": "魅力，撩人或吸引人的本事。",
+  "solution_for_parents": "别回避，聊聊礼貌、尊重对方的沟通。",
+  "context_example": "“他魅力爆表。”"
+ },
+ {
+  "word": "sus",
+  "definition": "可疑，感觉不对劲（来自 Among Us）。",
+  "solution_for_parents": "通常是玩笑。如果是真的，问清原因保证他安全。",
+  "context_example": "“这条消息有点可疑。”"
+ },
+ {
+  "word": "based",
+  "definition": "坚持自己的观点，不随大流。",
+  "solution_for_parents": "问他的观点是什么，别急着反驳。",
+  "context_example": "“那位朋友的看法很有主见。”"
+ },
+ {
+  "word": "W",
+  "definition": "来自 win：胜利，好事。",
+  "solution_for_parents": "和他一起庆祝，一个字母也是快乐。",
+  "context_example": "“提前放学，W！”"
+ },
+ {
+  "word": "L",
+  "definition": "来自 loss：失败，坏事。",
+  "solution_for_parents": "他说 L 时，先安慰，别急着说教。",
+  "context_example": "“早上的考试是个 L。”"
+ },
+ {
+  "word": "lowkey",
+  "definition": "低调地，有点，不明显。",
+  "solution_for_parents": "他在分享一件小事，认真听。",
+  "context_example": "“我有点担心这次考试。”"
+ },
+ {
+  "word": "highkey",
+  "definition": "明显地，非常，毫不掩饰。",
+  "solution_for_parents": "他在直说，欣赏这份坦率。",
+  "context_example": "“我特别想要这辆车。”"
+ },
+ {
+  "word": "bruh",
+  "definition": "无聊、惊讶或无语时的感叹。",
+  "solution_for_parents": "不是没礼貌。平静地问：“怎么了？”",
+  "context_example": "“哥们，又没电了。”"
+ },
+ {
+  "word": "bestie",
+  "definition": "最好的朋友。",
+  "solution_for_parents": "友好地问问他的好朋友，别刨根问底。",
+  "context_example": "“我闺蜜学习很好。”"
+ },
+ {
+  "word": "NPC",
+  "definition": "按习惯生活、没有主见的人（来自游戏里的路人角色）。",
+  "solution_for_parents": "别当成侮辱，问问他想改变什么。",
+  "context_example": "“每天上班，我觉得自己像个NPC。”"
+ },
+ {
+  "word": "glow up",
+  "definition": "外貌或自身明显变得更好。",
+  "solution_for_parents": "夸他的努力，避免负面评论外貌。",
+  "context_example": "“这一年我变化很大。”"
+ },
+ {
+  "word": "main character",
+  "definition": "觉得自己是自己故事的主角。",
+  "solution_for_parents": "鼓励自信，也提醒他关心别人。",
+  "context_example": "“今天我是主角模式。”"
+ },
+ {
+  "word": "đỉnh của chóp",
+  "definition": "超级出色，胜过一切。",
+  "solution_for_parents": "很高的评价，自豪地回应。",
+  "context_example": "“这个展示太顶了！”"
+ },
+ {
+  "word": "chill",
+  "definition": "放松、舒服、没压力。",
+  "solution_for_parents": "问他想怎么放松，一起度过不带目的的时间。",
+  "context_example": "“周末就放松一下吧。”"
+ },
+ {
+  "word": "overthinking",
+  "definition": "想太多，过度担心。",
+  "solution_for_parents": "坐在他身边问：“最让你担心的是什么？”一起写下来。",
+  "context_example": "“每晚睡前我都想很多。”"
+ },
+ {
+  "word": "burnout",
+  "definition": "长期学习或工作压力造成的精疲力竭。",
+  "solution_for_parents": "暂时降低期望，让他休息。若持续，考虑找专业人士。",
+  "context_example": "“考试季过后我精疲力竭。”"
+ },
+ {
+  "word": "gánh team",
+  "definition": "一个人承担整个小组的大部分工作。",
+  "solution_for_parents": "问他的感受，以及怎样分工更公平。",
+  "context_example": "“整周都是我在带小组作业。”"
+ },
+ {
+  "word": "cày",
+  "definition": "不停地做或玩，反复刷同一件事。",
+  "solution_for_parents": "问他在刷什么。如果是游戏，一起约定休息时间。",
+  "context_example": "“今晚我要刷到很晚。”"
+ },
+ {
+  "word": "farm",
+  "definition": "在游戏里慢慢积累资源或分数；有时也指为目标攒东西。",
+  "solution_for_parents": "问他的目标，别直接禁止游戏。",
+  "context_example": "“我在刷金币买装备。”"
+ },
+ {
+  "word": "AFK",
+  "definition": "暂时离开电脑或手机。",
+  "solution_for_parents": "他提前告知是有礼貌，尊重他。",
+  "context_example": "“我离开一下，去吃饭。”"
+ },
+ {
+  "word": "troll",
+  "definition": "为了好玩或捣乱而逗弄、挑衅别人。",
+  "solution_for_parents": "分清玩笑和骚扰，聊聊开玩笑的界限。",
+  "context_example": "“我只是逗逗朋友。”"
+ },
+ {
+  "word": "noob",
+  "definition": "新手，没有经验的人。",
+  "solution_for_parents": "当玩笑可以，提醒他别用来贬低别人。",
+  "context_example": "“妈，你玩这个游戏像个新手。”"
+ },
+ {
+  "word": "pro",
+  "definition": "高手，很熟练的玩家。",
+  "solution_for_parents": "是夸奖，请他教你玩。",
+  "context_example": "“他玩得太专业了。”"
+ },
+ {
+  "word": "gg",
+  "definition": "Good game，比赛结束时说。",
+  "solution_for_parents": "是良好风度的表现，夸夸他。",
+  "context_example": "“输了，但打得好。”"
+ },
+ {
+  "word": "buff",
+  "definition": "增强实力，或让某物更强。",
+  "solution_for_parents": "只是游戏术语，问问他以便了解。",
+  "context_example": "“他们加强了我的角色，很强了。”"
+ },
+ {
+  "word": "nerf",
+  "definition": "削弱，降低实力。",
+  "solution_for_parents": "问他是否觉得不公平，不需要再解决什么。",
+  "context_example": "“他们刚削弱了我最爱的角色。”"
+ },
+ {
+  "word": "lag",
+  "definition": "卡顿，延迟。",
+  "solution_for_parents": "帮他检查 Wi-Fi，别因为玩游戏责备他。",
+  "context_example": "“网络太卡，我输了。”"
+ },
+ {
+  "word": "skill issue",
+  "definition": "是技术不够，不是别的原因。",
+  "solution_for_parents": "是玩笑话，如果他对你说，笑着回应就好。",
+  "context_example": "“输了就是技术问题。”"
+ },
+ {
+  "word": "hack não",
+  "definition": "洗脑，让人停不下来（歌曲、句子）。",
+  "solution_for_parents": "轻松对待，问问他是哪首歌。",
+  "context_example": "“这首歌太洗脑了。”"
+ },
+ {
+  "word": "sống ảo",
+  "definition": "更在意网上形象而不是现实生活。",
+  "solution_for_parents": "避免批评，说说你也曾想被认可的时候。",
+  "context_example": "“她拍了一下午照片发朋友圈。”"
+ },
+ {
+  "word": "check-in",
+  "definition": "到达某处时发布位置或照片。",
+  "solution_for_parents": "一起约定安全的位置分享方式。",
+  "context_example": "“我在新咖啡馆打卡了。”"
+ },
+ {
+  "word": "tương tác",
+  "definition": "网上的点赞、评论、分享、回复。",
+  "solution_for_parents": "明白互动是他和朋友保持联系的方式。",
+  "context_example": "“这条帖子互动很高。”"
+ },
+ {
+  "word": "viral",
+  "definition": "在网上迅速传播。",
+  "solution_for_parents": "问是哪个视频、是否真实，教他核实消息。",
+  "context_example": "“这个视频火了。”"
+ },
+ {
+  "word": "trend",
+  "definition": "很多人跟着做的潮流。",
+  "solution_for_parents": "一起拍个健康的潮流视频，他会喜欢。",
+  "context_example": "“我来试试这个潮流。”"
+ },
+ {
+  "word": "content",
+  "definition": "为发布而制作的视频、图片或文章。",
+  "solution_for_parents": "问问他做的内容，别当成浪费时间。",
+  "context_example": "“我在想新的内容。”"
+ },
+ {
+  "word": "creator",
+  "definition": "在网上创作内容的人。",
+  "solution_for_parents": "问问他的频道，支持他保护隐私。",
+  "context_example": "“我想当创作者。”"
+ },
+ {
+  "word": "livestream",
+  "definition": "直播。",
+  "solution_for_parents": "一起约定安全规则：不露地址，学习时间不直播。",
+  "context_example": "“我在看音乐直播。”"
+ },
+ {
+  "word": "mukbang",
+  "definition": "对着镜头大量吃东西的视频。",
+  "solution_for_parents": "保持开放，但提醒他健康饮食。",
+  "context_example": "“今晚我看吃播。”"
+ },
+ {
+  "word": "ASMR",
+  "definition": "让人放松、想睡觉的舒缓声音。",
+  "solution_for_parents": "知道这是他放松的方式，尊重他。",
+  "context_example": "“我听ASMR来入睡。”"
+ },
+ {
+  "word": "meme",
+  "definition": "在网上传播的搞笑图片或视频。",
+  "solution_for_parents": "和他一起看梗图，一起笑能增进了解。",
+  "context_example": "“把这个梗图发给妈妈。”"
+ },
+ {
+  "word": "bựa",
+  "definition": "傻乎乎、过头的幽默，可爱或讨厌。",
+  "solution_for_parents": "问他的底线，提醒玩笑不该伤害任何人。",
+  "context_example": "“他有点憨，但很有趣。”"
+ },
+ {
+  "word": "lầy",
+  "definition": "调皮、爱逗人、不正经。",
+  "solution_for_parents": "通常没有恶意，别当成学坏。",
+  "context_example": "“我儿子特别皮。”"
+ },
+ {
+  "word": "tấu hài",
+  "definition": "搞笑逗乐。",
+  "solution_for_parents": "和他一起笑。",
+  "context_example": "“全组搞笑了一整节课。”"
+ },
+ {
+  "word": "thả thính",
+  "definition": "说撩人的话来引起注意。",
+  "solution_for_parents": "别小题大做，聊聊尊重和同意。",
+  "context_example": "“他在撩隔壁班的女生。”"
+ },
+ {
+  "word": "thính",
+  "definition": "撩人的话，或暗示感情的举动。",
+  "solution_for_parents": "温和地问，别审问。",
+  "context_example": "“这句撩人话太油腻了。”"
+ },
+ {
+  "word": "friendzone",
+  "definition": "只被当作朋友，无法更进一步。",
+  "solution_for_parents": "陪着他，别责备，这份难过是真的。",
+  "context_example": "“我被发好人卡了。”"
+ },
+ {
+  "word": "talking stage",
+  "definition": "正式交往前的了解阶段。",
+  "solution_for_parents": "聊聊尊重，别想知道所有细节。",
+  "context_example": "“我们在暧昧期。”"
+ },
+ {
+  "word": "situationship",
+  "definition": "说不清是什么的暧昧关系。",
+  "solution_for_parents": "问他想要什么，不要评判。",
+  "context_example": "“我和他是暧昧关系。”"
+ },
+ {
+  "word": "breadcrumbing",
+  "definition": "给一点点关注让对方一直等，却不承诺。",
+  "solution_for_parents": "帮他认清被吊着的感觉，以及他有权要求明确。",
+  "context_example": "“他总是吊着我。”"
+ },
+ {
+  "word": "love bombing",
+  "definition": "用过度的爱意轰炸以控制对方。",
+  "solution_for_parents": "教他识别迹象，问问他的感受。",
+  "context_example": "“刚认识就狂轰滥炸示爱。”"
+ },
+ {
+  "word": "me time",
+  "definition": "留给自己的时间。",
+  "solution_for_parents": "尊重他，他需要空间充电。",
+  "context_example": "“今天下午是我的独处时间。”"
+ },
+ {
+  "word": "self-care",
+  "definition": "照顾自己的身心。",
+  "solution_for_parents": "鼓励他，这不是自私。",
+  "context_example": "“我用护肤来照顾自己。”"
+ },
+ {
+  "word": "healing",
+  "definition": "在受伤或疲惫后疗愈心灵。",
+  "solution_for_parents": "问他需要什么。如果持续很久，建议找专业人士聊聊。",
+  "context_example": "“我一个人出去疗愈一下。”"
+ },
+ {
+  "word": "ổn áp",
+  "definition": "稳妥、可靠，一切都好。",
+  "solution_for_parents": "一种温和的夸奖。",
+  "context_example": "“这个计划很稳。”"
+ },
+ {
+  "word": "ngầu",
+  "definition": "有型、酷、有魄力。",
+  "solution_for_parents": "他自信时可以夸他。",
+  "context_example": "“他好酷。”"
+ },
+ {
+  "word": "swag",
+  "definition": "个人风格和自信。",
+  "solution_for_parents": "夸他的自信和穿搭品味。",
+  "context_example": "“我今天觉得自己很有型。”"
+ },
+ {
+  "word": "đu trend",
+  "definition": "追随当下的热门潮流。",
+  "solution_for_parents": "问他为什么喜欢，别说他只会跟风。",
+  "context_example": "“我想跟这个潮流。”"
+ },
+ {
+  "word": "xu cà na",
+  "definition": "倒霉，运气不好。",
+  "solution_for_parents": "安慰他，别讲大道理，他只需要被理解。",
+  "context_example": "“今天我好倒霉。”"
+ },
+ {
+  "word": "sương sương",
+  "definition": "轻松，简单，没什么大不了。",
+  "solution_for_parents": "是谦虚的说法，别当成轻视。",
+  "context_example": "“这道题小意思。”"
+ },
+ {
+  "word": "ok boomer",
+  "definition": "用来讽刺老一辈过时的说法。",
+  "solution_for_parents": "别生气，问他有没有你不懂的地方，互相倾听。",
+  "context_example": "“好的老古董，我懂了。”"
+ },
+ {
+  "word": "boomer",
+  "definition": "老一辈的人（常暗指过时）。",
+  "solution_for_parents": "开个玩笑回应，缩短距离，分享你从他们身上学到的东西。",
+  "context_example": "“我爸妈太老派了。”"
+ },
+ {
+  "word": "skibidi",
+  "definition": "Alpha世代的无意义搞笑词，来自搞笑视频。",
+  "solution_for_parents": "通常只是为了好笑，和他一起看视频。",
+  "context_example": "“什么都是skibidi。”"
+ },
+ {
+  "word": "sigma",
+  "definition": "独立、不受别人影响的人，常用来开玩笑。",
+  "solution_for_parents": "只是玩笑式的夸奖，陪他笑。",
+  "context_example": "“他太sigma了。”"
+ },
+ {
+  "word": "ohio",
+  "definition": "形容奇怪、怪异的事，带玩笑意味。",
+  "solution_for_parents": "别找深层含义，轻松地问问他。",
+  "context_example": "“这个地方太ohio了。”"
+ },
+ {
+  "word": "gyatt",
+  "definition": "惊讶时的感叹，常开玩笑说外貌。",
+  "solution_for_parents": "提醒他别用这种方式不尊重地评论真人。",
+  "context_example": "“哇，快看那边！”"
+ },
+ {
+  "word": "mewing",
+  "definition": "为了更立体脸型的舌头和下颌姿势，成了潮流。",
+  "solution_for_parents": "聊聊可靠的健康信息。",
+  "context_example": "“我每天都在做舌姿训练。”"
+ },
+ {
+  "word": "aura",
+  "definition": "一个人的气场或魅力，有“加光环”和“减光环”。",
+  "solution_for_parents": "只是文字游戏，问他为什么觉得掉了光环。",
+  "context_example": "“那样做会掉光环。”"
+ },
+ {
+  "word": "delulu",
+  "definition": "快乐地妄想，想象自己所愿。",
+  "solution_for_parents": "接受他的快乐，必要时温和地拉回现实。",
+  "context_example": "“我妄想自己能考上。”"
+ },
+ {
+  "word": "bet",
+  "definition": "好的，成交，说定了。",
+  "solution_for_parents": "只是“OK”，别误会成赌博。",
+  "context_example": "“今晚去吃饭？成交。”"
+ },
+ {
+  "word": "periodt",
+  "definition": "强调事情已定，没得商量。",
+  "solution_for_parents": "他在表明立场，问原因，别对着干。",
+  "context_example": "“我要去，就这样。”"
+ },
+ {
+  "word": "it's giving",
+  "definition": "让人联想到某种感觉或风格。",
+  "solution_for_parents": "只是描述，问他“像”什么。",
+  "context_example": "“这身衣服很有秋天的感觉。”"
+ },
+ {
+  "word": "touch grass",
+  "definition": "提醒别总盯着屏幕，出门透透气。",
+  "solution_for_parents": "邀他去散步，别下命令。",
+  "context_example": "“你该出去走走了。”"
+ },
+ {
+  "word": "doomscrolling",
+  "definition": "停不下来地刷坏消息。",
+  "solution_for_parents": "一起设定用手机的时间，别指责。",
+  "context_example": "“我刷坏消息刷到凌晨两点。”"
+ },
+ {
+  "word": "screen time",
+  "definition": "盯着屏幕的总时间。",
+  "solution_for_parents": "一起设定限制并以身作则。",
+  "context_example": "“我的屏幕时间是6小时。”"
+ },
+ {
+  "word": "unfollow",
+  "definition": "取消关注某人。",
+  "solution_for_parents": "问他原因，别强迫他关注亲戚。",
+  "context_example": "“我取关他了。”"
+ },
+ {
+  "word": "seenzone",
+  "definition": "已读不回。",
+  "solution_for_parents": "他因被无视而难过，温和地安慰他。",
+  "context_example": "“他已读不回我。”"
+ },
+ {
+  "word": "stalk",
+  "definition": "悄悄查看某人的主页。",
+  "solution_for_parents": "聊聊隐私和尊重。",
+  "context_example": "“我在偷看暗恋对象的主页。”"
+ },
+ {
+  "word": "spoiler",
+  "definition": "在别人看之前透露电影、故事内容。",
+  "solution_for_parents": "他说“别剧透”时，要尊重。",
+  "context_example": "“妈，别剧透！”"
+ },
+ {
+  "word": "cà khịa",
+  "definition": "逗弄、调侃或暗中讽刺。",
+  "solution_for_parents": "问他是想开玩笑还是真有话说。",
+  "context_example": "“他老是调侃我。”"
+ },
+ {
+  "word": "bóc phốt",
+  "definition": "在网上揭露某人的丑事。",
+  "solution_for_parents": "聊聊后果，以及主持公道与攻击之间的界线。",
+  "context_example": "“有人在网上被曝光了。”"
+ },
+ {
+  "word": "cancel culture",
+  "definition": "因不当行为公开抵制名人。",
+  "solution_for_parents": "问他的看法，一起讨论宽恕与责任。",
+  "context_example": "“那位歌手被封杀了。”"
+ },
+ {
+  "word": "hater",
+  "definition": "总是批评、讨厌别人的人。",
+  "solution_for_parents": "如果他被黑粉攻击，先照顾他的感受。",
+  "context_example": "“有黑粉给我发难听的信息。”"
+ },
+ {
+  "word": "anti-fan",
+  "definition": "讨厌某位艺人或团体的人。",
+  "solution_for_parents": "提醒他不要攻击别人。",
+  "context_example": "“我有黑粉。”"
+ },
+ {
+  "word": "fan cứng",
+  "definition": "忠实的老粉丝。",
+  "solution_for_parents": "问问他和偶像的回忆。",
+  "context_example": "“我是这个组合的铁粉。”"
+ },
+ {
+  "word": "check var",
+  "definition": "重新核实一条信息或一句话。",
+  "solution_for_parents": "鼓励他核实，你也以身作则。",
+  "context_example": "“等一下，我先核实一下。”"
+ },
+ {
+  "word": "đào mộ",
+  "definition": "翻出某人网上的旧帖子。",
+  "solution_for_parents": "聊聊数字足迹：发出去的内容可能长期存在。",
+  "context_example": "“他们翻出了他的旧帖子。”"
+ },
+ {
+  "word": "hít drama",
+  "definition": "只为了娱乐而关注热闹纠纷。",
+  "solution_for_parents": "不必禁止，建议平衡时间。",
+  "context_example": "“我在吃瓜。”"
+ },
+ {
+  "word": "ngó lơ",
+  "definition": "故意不理，装作没看见。",
+  "solution_for_parents": "问他想避开什么，尤其是和朋友之间。",
+  "context_example": "“他们不理我。”"
+ }
+]
